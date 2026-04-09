@@ -1,0 +1,65 @@
+[general]
+output_dir = "."
+default_theme = "daily_briefing"
+default_width = 1024
+default_height = 768
+default_colors = 0
+
+[api]
+# Set GOOGLE_API_KEY env var instead of putting it here
+# google_api_key = ""
+composer_model = "gemini-2.5-flash"
+generator_model = "gemini-3.1-flash-image-preview"
+image_size = "1K"
+
+[sources.rss]
+enabled = true
+count = 5
+
+[[sources.rss.feeds]]
+name = "Hacker News"
+url = "https://news.ycombinator.com/rss"
+
+[[sources.rss.feeds]]
+name = "Ars Technica"
+url = "https://feeds.arstechnica.com/arstechnica/index"
+
+[[sources.rss.feeds]]
+name = "Financial Times"
+url = "https://www.ft.com/rss/home"
+
+[sources.quotes]
+enabled = true
+count = 1
+
+[sources.proverbs]
+enabled = true
+count = 1
+
+[sources.paperboy]
+enabled = true
+# Set NEWSAPI_KEY env var or put your newsapi.org key here
+# api_key = ""
+countries = ["us", "gb", "fr", "de", "jp"]
+count = 3  # headlines per country
+
+[sources.calendar]
+enabled = true
+show_day_info = true
+ics_file = ""
+
+[eink]
+default_palette = ""
+dither = true
+dither_method = "floyd-steinberg"
+
+[eink.palettes]
+bw = ["#000000", "#FFFFFF"]
+bwr = ["#000000", "#FFFFFF", "#FF0000"]
+sevcolor = ["#000000", "#FFFFFF", "#FF0000", "#00FF00", "#0000FF", "#FFFF00", "#FF8000"]
+sixteencolor = [
+    "#000000", "#FFFFFF", "#FF0000", "#00FF00",
+    "#0000FF", "#FFFF00", "#FF8000", "#800080",
+    "#00FFFF", "#FF00FF", "#808080", "#C0C0C0",
+    "#800000", "#008000", "#000080", "#808000",
+]
