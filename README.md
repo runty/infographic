@@ -11,7 +11,7 @@ Built for desktop wallpapers, e-ink displays, and digital signage.
 - **Sundial Mode**: Automatically adjusts lighting to match time of day (dawn, morning, golden hour, night)
 - **Dark Mode**: Force dark backgrounds, or auto-dark after sunset via sundial
 - **E-ink Support**: Color-limited palettes (BW, BWR, 7-color, 16-color) with Floyd-Steinberg dithering
-- **Wallpaper Rotation**: Included script to auto-generate and set wallpaper every 15 minutes
+- **Wallpaper Rotation**: Hourly auto-generation (6am–10pm) with last 10 wallpapers kept
 
 ## Themes
 
@@ -35,7 +35,7 @@ Built for desktop wallpapers, e-ink displays, and digital signage.
 Requires Python 3.12+.
 
 ```bash
-git clone https://github.com/phobus/infographic.git
+git clone https://github.com/runty/infographic.git
 cd infographic
 python3 -m venv .venv
 source .venv/bin/activate
@@ -134,24 +134,49 @@ When `--dark-mode` is not set, the tool automatically adjusts lighting based on 
 
 ## Wallpaper Rotation
 
-Auto-generate a new infographic wallpaper every 15 minutes:
+Auto-generate a new infographic wallpaper every hour (6am–10pm), set on the second monitor. Keeps the last 10 wallpapers (`wallpaper_1.png` through `wallpaper_10.png`) so you can browse recent ones.
+
+### Setup
 
 1. Create a `.env` file with your API keys (see above)
-2. Load the launchd agent:
+2. Copy the plist to LaunchAgents:
+
+```bash
+cp com.infographic.wallpaper.plist ~/Library/LaunchAgents/
+```
+
+3. Load it:
 
 ```bash
 launchctl load ~/Library/LaunchAgents/com.infographic.wallpaper.plist
 ```
 
-The rotation alternates between the `headline` theme and a random theme from the other 11.
-
-To stop:
+### Force a one-time refresh
 
 ```bash
-launchctl unload ~/Library/LaunchAgents/com.infographic.wallpaper.plist
+bash wallpaper_rotate.sh
 ```
 
-Check logs:
+Or add to your PATH:
+
+```bash
+mkdir -p ~/bin
+ln -s /path/to/infographic/wallpaper_rotate.sh ~/bin/wallpaper
+```
+
+Then just run `wallpaper`.
+
+### Stop / restart
+
+```bash
+# Stop
+launchctl unload ~/Library/LaunchAgents/com.infographic.wallpaper.plist
+
+# Start
+launchctl load ~/Library/LaunchAgents/com.infographic.wallpaper.plist
+```
+
+### Check logs
 
 ```bash
 tail -f wallpaper_rotate.log
