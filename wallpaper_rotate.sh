@@ -39,14 +39,11 @@ THEME="headline"
 
 echo "$(date): Run #$COUNTER — theme: $THEME" >> "$LOG"
 
-# Alternate between two filenames so macOS sees a "new" file each time
-if [ $((COUNTER % 2)) -eq 0 ]; then
-    WALLPAPER="$WALLPAPER_DIR/wallpaper_a.png"
-    OLD_WALLPAPER="$WALLPAPER_DIR/wallpaper_b.png"
-else
-    WALLPAPER="$WALLPAPER_DIR/wallpaper_b.png"
-    OLD_WALLPAPER="$WALLPAPER_DIR/wallpaper_a.png"
-fi
+# Cycle through wallpaper_1.png to wallpaper_10.png so you can browse recent ones
+SLOT=$(( (COUNTER % 10) + 1 ))
+PREV_SLOT=$(( ((COUNTER - 1) % 10 + 10) % 10 + 1 ))
+WALLPAPER="$WALLPAPER_DIR/wallpaper_${SLOT}.png"
+OLD_WALLPAPER="$WALLPAPER_DIR/wallpaper_${PREV_SLOT}.png"
 
 # Generate
 infographic generate \
@@ -63,13 +60,17 @@ if [ $? -ne 0 ]; then
 fi
 
 # Set wallpaper on 2nd monitor
+# First set to a blank to force macOS to notice the change, then set the real one
+osascript -e "
+tell application \"System Events\"
+    set picture of desktop 2 to \"$OLD_WALLPAPER\"
+end tell
+" 2>> "$LOG"
+sleep 1
 osascript -e "
 tell application \"System Events\"
     set picture of desktop 2 to \"$WALLPAPER\"
 end tell
 " 2>> "$LOG"
 
-# Clean up old wallpaper
-rm -f "$OLD_WALLPAPER"
-
-echo "$(date): Wallpaper set successfully ($WALLPAPER)" >> "$LOG"
+echo "$(date): Wallpaper set successfully ($WALLPAPER, slot $SLOT/10)" >> "$LOG"
