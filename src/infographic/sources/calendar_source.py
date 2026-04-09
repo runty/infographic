@@ -48,7 +48,7 @@ class CalendarSource(DataSource):
         events = []
         today_str = now.strftime("%Y%m%d")
 
-        with open(path) as f:
+        with open(path, encoding="utf-8") as f:
             content = f.read()
 
         in_event = False

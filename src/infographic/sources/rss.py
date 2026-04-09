@@ -1,6 +1,7 @@
 import logging
 
 import feedparser
+import httpx
 
 from infographic.sources import register
 from infographic.sources.base import DataSource, SourceResult
@@ -25,7 +26,8 @@ class RssSource(DataSource):
                 continue
 
             try:
-                parsed = feedparser.parse(url)
+                resp = httpx.get(url, timeout=15, follow_redirects=True)
+                parsed = feedparser.parse(resp.text)
                 for entry in parsed.entries[:count]:
                     items.append({
                         "source": feed_name,

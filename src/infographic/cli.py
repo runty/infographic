@@ -73,6 +73,9 @@ def generate(
     )
 
     # Validate inputs
+    if width <= 0 or height <= 0:
+        console.print("[red]Width and height must be positive integers[/red]")
+        raise typer.Exit(1)
     if aspect_ratio and aspect_ratio not in VALID_RATIOS:
         console.print(f"[red]Invalid aspect ratio '{aspect_ratio}'. Valid: {', '.join(VALID_RATIOS)}[/red]")
         raise typer.Exit(1)
@@ -107,8 +110,7 @@ def generate(
     if dark_mode:
         console.print(f"  Mode: dark")
     else:
-        from datetime import datetime as _dt
-        _h = _dt.now().hour
+        _h = datetime.now().hour
         _tod = (
             "dawn" if 5 <= _h < 8 else
             "morning" if 8 <= _h < 12 else
