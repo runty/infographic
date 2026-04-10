@@ -62,7 +62,7 @@ class CalendarSource(DataSource):
                 in_event = False
                 # Check if event is today
                 dtstart = event.get("dtstart", "")
-                if today_str in dtstart:
+                if dtstart.startswith(today_str):
                     events.append({
                         "event": event.get("summary", "Untitled"),
                         "time": dtstart,

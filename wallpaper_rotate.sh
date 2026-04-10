@@ -1,7 +1,6 @@
 #!/bin/bash
-# Wallpaper rotation script — runs every 15 minutes
-# Even runs: headline theme, Odd runs: random other theme
-# Sets wallpaper on 2nd monitor (LG TV)
+# Wallpaper rotation script — runs every 4 hours (6am-10pm)
+# headline-lego theme, 4K resolution, sets wallpaper on 2nd monitor (LG TV)
 
 export PATH="/opt/homebrew/bin:$PATH"
 
