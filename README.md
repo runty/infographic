@@ -6,12 +6,12 @@ Built for desktop wallpapers, e-ink displays, and digital signage.
 
 ## Features
 
-- **12 Visual Themes** with unique art styles and scene variance (every generation is different)
+- **14 Visual Themes** with unique art styles and scene variance (every generation is different)
 - **5 Data Sources**: RSS feeds, world headlines (NewsAPI), foreign language quotes, Chinese proverbs, calendar
 - **Sundial Mode**: Automatically adjusts lighting to match time of day (dawn, morning, golden hour, night)
 - **Dark Mode**: Force dark backgrounds, or auto-dark after sunset via sundial
 - **E-ink Support**: Color-limited palettes (BW, BWR, 7-color, 16-color) with Floyd-Steinberg dithering
-- **Wallpaper Rotation**: Hourly auto-generation (6am–10pm) with last 10 wallpapers kept
+- **Wallpaper Rotation**: Auto-generation 3x/day (6am, 12pm, 6pm) with last 10 wallpapers kept, auto-dark at 6pm
 
 ## Themes
 
@@ -29,6 +29,8 @@ Built for desktop wallpapers, e-ink displays, and digital signage.
 | `steampunk_workshop` | Miyazaki anime steampunk inventor's workshop |
 | `ocean_depths` | Ghibli anime bioluminescent underwater world |
 | `headline` | Top news story as Lego Movie or Pixar 3D (random 50/50) |
+| `headline-lego` | Top news story in photorealistic 3D Lego Movie style |
+| `headline-pixar` | Top news story in Pixar 3D CGI animation style |
 
 ## Installation
 
@@ -134,7 +136,7 @@ When `--dark-mode` is not set, the tool automatically adjusts lighting based on 
 
 ## Wallpaper Rotation
 
-Auto-generate a new infographic wallpaper every hour (6am–10pm), set on the second monitor. Keeps the last 10 wallpapers (`wallpaper_1.png` through `wallpaper_10.png`) so you can browse recent ones.
+Auto-generate a new infographic wallpaper 3x/day (6am, 12pm, 6pm), set on the second monitor. The 6pm run automatically uses dark mode. Keeps the last 10 wallpapers (`wallpaper_1.png` through `wallpaper_10.png`) so you can browse recent ones.
 
 ### Setup
 
@@ -197,8 +199,8 @@ The tool uses a two-stage AI pipeline:
 |---|---|---|
 | `rss` | Top stories from RSS feeds | Configurable feed URLs and count |
 | `paperboy` | World headlines via NewsAPI.org | Configurable countries (default: US, GB, FR, DE, JP) |
-| `quotes` | Foreign language quotes with English translations | 40+ quotes in Latin, French, Japanese, Arabic, etc. |
-| `proverbs` | Chinese proverbs with pinyin and translation | 25+ proverbs from Confucius, Laozi, Sun Tzu, etc. |
+| `quotes` | Foreign language quotes with English translations | 146 quotes in 20+ languages (Latin, French, Japanese, Arabic, etc.) |
+| `proverbs` | Chinese proverbs with pinyin and translation | 79 proverbs from Confucius, Laozi, Sun Tzu, Mencius, etc. |
 | `calendar` | Today's date, day of year, week number | Optional .ics file support |
 
 ## License

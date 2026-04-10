@@ -36,6 +36,13 @@ echo "$NEXT" > "$COUNTER_FILE"
 # Pick theme
 THEME="headline-lego"
 
+# Force dark mode for evening runs
+HOUR=$(date +%H)
+DARK_FLAG=""
+if [ "$HOUR" -ge 18 ]; then
+    DARK_FLAG="--dark-mode"
+fi
+
 echo "$(date): Run #$COUNTER — theme: $THEME" >> "$LOG"
 
 # Cycle through wallpaper_1.png to wallpaper_10.png so you can browse recent ones
@@ -51,6 +58,7 @@ infographic generate \
     --resolution 4K \
     --width 3840 \
     --height 2160 \
+    $DARK_FLAG \
     -o "$WALLPAPER" 2>> "$LOG"
 
 if [ $? -ne 0 ]; then
