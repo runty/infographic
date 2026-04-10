@@ -1,242 +1,148 @@
 [
-  {
-    "text": "Memento mori.",
-    "language": "Latin",
-    "translation": "Remember that you will die.",
-    "attribution": "Ancient Roman saying"
-  },
-  {
-    "text": "Carpe diem, quam minimum credula postero.",
-    "language": "Latin",
-    "translation": "Seize the day, put very little trust in tomorrow.",
-    "attribution": "Horace"
-  },
-  {
-    "text": "Amor fati.",
-    "language": "Latin",
-    "translation": "Love of fate.",
-    "attribution": "Stoic philosophy"
-  },
-  {
-    "text": "Per aspera ad astra.",
-    "language": "Latin",
-    "translation": "Through hardships to the stars.",
-    "attribution": "Latin proverb"
-  },
-  {
-    "text": "Dum spiro, spero.",
-    "language": "Latin",
-    "translation": "While I breathe, I hope.",
-    "attribution": "Cicero"
-  },
-  {
-    "text": "L'essentiel est invisible pour les yeux.",
-    "language": "French",
-    "translation": "What is essential is invisible to the eyes.",
-    "attribution": "Antoine de Saint-Exup\u00e9ry"
-  },
-  {
-    "text": "La vie est belle.",
-    "language": "French",
-    "translation": "Life is beautiful.",
-    "attribution": "French saying"
-  },
-  {
-    "text": "Il faut imaginer Sisyphe heureux.",
-    "language": "French",
-    "translation": "One must imagine Sisyphus happy.",
-    "attribution": "Albert Camus"
-  },
-  {
-    "text": "Tout comprendre, c'est tout pardonner.",
-    "language": "French",
-    "translation": "To understand all is to forgive all.",
-    "attribution": "French proverb"
-  },
-  {
-    "text": "Je pense, donc je suis.",
-    "language": "French",
-    "translation": "I think, therefore I am.",
-    "attribution": "Ren\u00e9 Descartes"
-  },
-  {
-    "text": "\u4e03\u8ee2\u3073\u516b\u8d77\u304d.",
-    "language": "Japanese",
-    "translation": "Fall seven times, stand up eight.",
-    "attribution": "Japanese proverb"
-  },
-  {
-    "text": "\u82b1\u3088\u308a\u56e3\u5b50.",
-    "language": "Japanese",
-    "translation": "Dumplings rather than flowers. (Substance over style.)",
-    "attribution": "Japanese proverb"
-  },
-  {
-    "text": "\u4e00\u671f\u4e00\u4f1a.",
-    "language": "Japanese",
-    "translation": "One time, one meeting. (Treasure every encounter.)",
-    "attribution": "Sen no Riky\u016b"
-  },
-  {
-    "text": "\u7559\u5f97\u9752\u5c71\u5728\uff0c\u4e0d\u6101\u6ca1\u67f4\u70e7.",
-    "language": "Japanese",
-    "translation": "As long as the green hills remain, there is no need to worry about firewood.",
-    "attribution": "Japanese proverb"
-  },
-  {
-    "text": "Wer k\u00e4mpft, kann verlieren. Wer nicht k\u00e4mpft, hat schon verloren.",
-    "language": "German",
-    "translation": "He who fights can lose. He who doesn't fight has already lost.",
-    "attribution": "Bertolt Brecht"
-  },
-  {
-    "text": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.",
-    "language": "German",
-    "translation": "The limits of my language mean the limits of my world.",
-    "attribution": "Ludwig Wittgenstein"
-  },
-  {
-    "text": "Man sieht nur mit dem Herzen gut.",
-    "language": "German",
-    "translation": "It is only with the heart that one can see rightly.",
-    "attribution": "Antoine de Saint-Exup\u00e9ry (German translation)"
-  },
-  {
-    "text": "\u0644\u0627 \u062a\u0624\u062c\u0644 \u0639\u0645\u0644 \u0627\u0644\u064a\u0648\u0645 \u0625\u0644\u0649 \u0627\u0644\u063a\u062f.",
-    "language": "Arabic",
-    "translation": "Do not postpone today's work to tomorrow.",
-    "attribution": "Arabic proverb"
-  },
-  {
-    "text": "\u0627\u0644\u0639\u0644\u0645 \u0646\u0648\u0631.",
-    "language": "Arabic",
-    "translation": "Knowledge is light.",
-    "attribution": "Arabic proverb"
-  },
-  {
-    "text": "\u0627\u0644\u0635\u0628\u0631 \u0645\u0641\u062a\u0627\u062d \u0627\u0644\u0641\u0631\u062c.",
-    "language": "Arabic",
-    "translation": "Patience is the key to relief.",
-    "attribution": "Arabic proverb"
-  },
-  {
-    "text": "Chi va piano, va sano e va lontano.",
-    "language": "Italian",
-    "translation": "He who goes slowly, goes safely and goes far.",
-    "attribution": "Italian proverb"
-  },
-  {
-    "text": "La vita \u00e8 troppo breve per bere vini mediocri.",
-    "language": "Italian",
-    "translation": "Life is too short to drink mediocre wine.",
-    "attribution": "Johann Wolfgang von Goethe"
-  },
-  {
-    "text": "Dopo la pioggia viene il sereno.",
-    "language": "Italian",
-    "translation": "After the rain comes clear sky.",
-    "attribution": "Italian proverb"
-  },
-  {
-    "text": "\u041d\u0435 \u0432\u0441\u0451 \u0442\u043e \u0437\u043e\u043b\u043e\u0442\u043e, \u0447\u0442\u043e \u0431\u043b\u0435\u0441\u0442\u0438\u0442.",
-    "language": "Russian",
-    "translation": "Not all that glitters is gold.",
-    "attribution": "Russian proverb"
-  },
-  {
-    "text": "\u0422\u0438\u0448\u0435 \u0435\u0434\u0435\u0448\u044c \u2014 \u0434\u0430\u043b\u044c\u0448\u0435 \u0431\u0443\u0434\u0435\u0448\u044c.",
-    "language": "Russian",
-    "translation": "The quieter you go, the further you'll get.",
-    "attribution": "Russian proverb"
-  },
-  {
-    "text": "El que no arriesga, no gana.",
-    "language": "Spanish",
-    "translation": "He who doesn't risk, doesn't win.",
-    "attribution": "Spanish proverb"
-  },
-  {
-    "text": "No hay mal que por bien no venga.",
-    "language": "Spanish",
-    "translation": "There is no bad from which good does not come.",
-    "attribution": "Spanish proverb"
-  },
-  {
-    "text": "M\u00e1s vale tarde que nunca.",
-    "language": "Spanish",
-    "translation": "Better late than never.",
-    "attribution": "Spanish proverb"
-  },
-  {
-    "text": "\uc2dc\uc791\uc774 \ubc18\uc774\ub2e4.",
-    "language": "Korean",
-    "translation": "Starting is half the task.",
-    "attribution": "Korean proverb"
-  },
-  {
-    "text": "\uace0\uc0dd \ub05d\uc5d0 \ub099\uc774 \uc628\ub2e4.",
-    "language": "Korean",
-    "translation": "At the end of hardship comes happiness.",
-    "attribution": "Korean proverb"
-  },
-  {
-    "text": "Quem n\u00e3o tem c\u00e3o, ca\u00e7a com gato.",
-    "language": "Portuguese",
-    "translation": "He who has no dog, hunts with a cat. (Make do with what you have.)",
-    "attribution": "Portuguese proverb"
-  },
-  {
-    "text": "\u0e17\u0e33\u0e14\u0e35\u0e44\u0e14\u0e49\u0e14\u0e35 \u0e17\u0e33\u0e0a\u0e31\u0e48\u0e27\u0e44\u0e14\u0e49\u0e0a\u0e31\u0e48\u0e27.",
-    "language": "Thai",
-    "translation": "Do good, receive good. Do evil, receive evil.",
-    "attribution": "Thai proverb"
-  },
-  {
-    "text": "Veni, vidi, vici.",
-    "language": "Latin",
-    "translation": "I came, I saw, I conquered.",
-    "attribution": "Julius Caesar"
-  },
-  {
-    "text": "Sapere aude.",
-    "language": "Latin",
-    "translation": "Dare to know.",
-    "attribution": "Horace"
-  },
-  {
-    "text": "Cogito, ergo sum.",
-    "language": "Latin",
-    "translation": "I think, therefore I am.",
-    "attribution": "Ren\u00e9 Descartes"
-  },
-  {
-    "text": "Tempus fugit.",
-    "language": "Latin",
-    "translation": "Time flies.",
-    "attribution": "Virgil"
-  },
-  {
-    "text": "\u0939\u093e\u0930 \u0915\u0947 \u0906\u0917\u0947 \u091c\u0940\u0924 \u0939\u0948.",
-    "language": "Hindi",
-    "translation": "There is victory beyond defeat.",
-    "attribution": "Hindi proverb"
-  },
-  {
-    "text": "\u03b3\u03bd\u1ff6\u03b8\u03b9 \u03c3\u03b5\u03b1\u03c5\u03c4\u03cc\u03bd.",
-    "language": "Ancient Greek",
-    "translation": "Know thyself.",
-    "attribution": "Inscription at the Temple of Apollo at Delphi"
-  },
-  {
-    "text": "\u03bc\u03b7\u03b4\u03ad\u03bd \u03ac\u03b3\u03b1\u03bd.",
-    "language": "Ancient Greek",
-    "translation": "Nothing in excess.",
-    "attribution": "Inscription at the Temple of Apollo at Delphi"
-  },
-  {
-    "text": "\u0627\u0644\u0639\u0642\u0644 \u0632\u064a\u0646\u0629.",
-    "language": "Arabic",
-    "translation": "The mind is an adornment.",
-    "attribution": "Arabic proverb"
-  }
+  {"text": "Memento mori.", "language": "Latin", "translation": "Remember that you will die.", "attribution": "Ancient Roman saying"},
+  {"text": "Carpe diem, quam minimum credula postero.", "language": "Latin", "translation": "Seize the day, put very little trust in tomorrow.", "attribution": "Horace"},
+  {"text": "Amor fati.", "language": "Latin", "translation": "Love of fate.", "attribution": "Stoic philosophy"},
+  {"text": "Per aspera ad astra.", "language": "Latin", "translation": "Through hardships to the stars.", "attribution": "Latin proverb"},
+  {"text": "Dum spiro, spero.", "language": "Latin", "translation": "While I breathe, I hope.", "attribution": "Cicero"},
+  {"text": "Veni, vidi, vici.", "language": "Latin", "translation": "I came, I saw, I conquered.", "attribution": "Julius Caesar"},
+  {"text": "Sapere aude.", "language": "Latin", "translation": "Dare to know.", "attribution": "Horace"},
+  {"text": "Cogito, ergo sum.", "language": "Latin", "translation": "I think, therefore I am.", "attribution": "Ren\u00e9 Descartes"},
+  {"text": "Tempus fugit.", "language": "Latin", "translation": "Time flies.", "attribution": "Virgil"},
+  {"text": "Ars longa, vita brevis.", "language": "Latin", "translation": "Art is long, life is short.", "attribution": "Hippocrates"},
+  {"text": "Errare humanum est.", "language": "Latin", "translation": "To err is human.", "attribution": "Seneca"},
+  {"text": "Audentes fortuna iuvat.", "language": "Latin", "translation": "Fortune favors the bold.", "attribution": "Virgil"},
+  {"text": "Acta, non verba.", "language": "Latin", "translation": "Deeds, not words.", "attribution": "Latin proverb"},
+  {"text": "Ad astra per aspera.", "language": "Latin", "translation": "To the stars through difficulties.", "attribution": "Latin proverb"},
+  {"text": "Sic transit gloria mundi.", "language": "Latin", "translation": "Thus passes the glory of the world.", "attribution": "Thomas \u00e0 Kempis"},
+  {"text": "Veritas vos liberabit.", "language": "Latin", "translation": "The truth shall set you free.", "attribution": "Latin proverb"},
+  {"text": "Festina lente.", "language": "Latin", "translation": "Make haste slowly.", "attribution": "Augustus Caesar"},
+  {"text": "Dulce et decorum est pro patria mori.", "language": "Latin", "translation": "It is sweet and fitting to die for one's country.", "attribution": "Horace"},
+  {"text": "Non ducor, duco.", "language": "Latin", "translation": "I am not led, I lead.", "attribution": "Latin proverb"},
+  {"text": "Alea iacta est.", "language": "Latin", "translation": "The die is cast.", "attribution": "Julius Caesar"},
+  {"text": "L'essentiel est invisible pour les yeux.", "language": "French", "translation": "What is essential is invisible to the eyes.", "attribution": "Antoine de Saint-Exup\u00e9ry"},
+  {"text": "Il faut imaginer Sisyphe heureux.", "language": "French", "translation": "One must imagine Sisyphus happy.", "attribution": "Albert Camus"},
+  {"text": "Tout comprendre, c'est tout pardonner.", "language": "French", "translation": "To understand all is to forgive all.", "attribution": "French proverb"},
+  {"text": "Je pense, donc je suis.", "language": "French", "translation": "I think, therefore I am.", "attribution": "Ren\u00e9 Descartes"},
+  {"text": "La beaut\u00e9 sauvera le monde.", "language": "French", "translation": "Beauty will save the world.", "attribution": "Fyodor Dostoevsky"},
+  {"text": "L'enfer, c'est les autres.", "language": "French", "translation": "Hell is other people.", "attribution": "Jean-Paul Sartre"},
+  {"text": "On ne voit bien qu'avec le c\u0153ur.", "language": "French", "translation": "It is only with the heart that one can see rightly.", "attribution": "Antoine de Saint-Exup\u00e9ry"},
+  {"text": "Le c\u0153ur a ses raisons que la raison ne conna\u00eet point.", "language": "French", "translation": "The heart has its reasons which reason knows nothing of.", "attribution": "Blaise Pascal"},
+  {"text": "Rien ne se perd, rien ne se cr\u00e9e, tout se transforme.", "language": "French", "translation": "Nothing is lost, nothing is created, everything is transformed.", "attribution": "Antoine Lavoisier"},
+  {"text": "Le courage n'est pas l'absence de peur, mais la capacit\u00e9 de vaincre ce qui fait peur.", "language": "French", "translation": "Courage is not the absence of fear, but the ability to overcome what frightens.", "attribution": "Nelson Mandela (French)"},
+  {"text": "Qui vivra verra.", "language": "French", "translation": "Who lives will see. (Time will tell.)", "attribution": "French proverb"},
+  {"text": "Apr\u00e8s la pluie, le beau temps.", "language": "French", "translation": "After the rain, good weather.", "attribution": "French proverb"},
+  {"text": "\u4e03\u8ee2\u3073\u516b\u8d77\u304d.", "language": "Japanese", "translation": "Fall seven times, stand up eight.", "attribution": "Japanese proverb"},
+  {"text": "\u82b1\u3088\u308a\u56e3\u5b50.", "language": "Japanese", "translation": "Dumplings rather than flowers. (Substance over style.)", "attribution": "Japanese proverb"},
+  {"text": "\u4e00\u671f\u4e00\u4f1a.", "language": "Japanese", "translation": "One time, one meeting. (Treasure every encounter.)", "attribution": "Sen no Riky\u016b"},
+  {"text": "\u96e8\u964d\u3063\u3066\u5730\u56fa\u307e\u308b.", "language": "Japanese", "translation": "After rain, the ground hardens. (Adversity builds strength.)", "attribution": "Japanese proverb"},
+  {"text": "\u77f3\u306e\u4e0a\u306b\u3082\u4e09\u5e74.", "language": "Japanese", "translation": "Three years on a stone. (Patience pays off.)", "attribution": "Japanese proverb"},
+  {"text": "\u6b8b\u308a\u7269\u306b\u306f\u798f\u304c\u3042\u308b.", "language": "Japanese", "translation": "There is fortune in leftovers. (Good things come to those who wait.)", "attribution": "Japanese proverb"},
+  {"text": "\u4e95\u306e\u4e2d\u306e\u86d9\u5927\u6d77\u3092\u77e5\u3089\u305a.", "language": "Japanese", "translation": "A frog in a well does not know the great sea.", "attribution": "Japanese proverb"},
+  {"text": "\u7329\u3082\u6728\u304b\u3089\u843d\u3061\u308b.", "language": "Japanese", "translation": "Even monkeys fall from trees. (Everyone makes mistakes.)", "attribution": "Japanese proverb"},
+  {"text": "\u6b66\u58eb\u306f\u98df\u308f\u306d\u3069\u9ad8\u697d\u679d.", "language": "Japanese", "translation": "A samurai uses a toothpick even when he hasn't eaten. (Keep your dignity.)", "attribution": "Japanese proverb"},
+  {"text": "Wer k\u00e4mpft, kann verlieren. Wer nicht k\u00e4mpft, hat schon verloren.", "language": "German", "translation": "He who fights can lose. He who doesn't fight has already lost.", "attribution": "Bertolt Brecht"},
+  {"text": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.", "language": "German", "translation": "The limits of my language mean the limits of my world.", "attribution": "Ludwig Wittgenstein"},
+  {"text": "Was mich nicht umbringt, macht mich st\u00e4rker.", "language": "German", "translation": "What does not kill me makes me stronger.", "attribution": "Friedrich Nietzsche"},
+  {"text": "Man muss noch Chaos in sich haben, um einen tanzenden Stern geb\u00e4ren zu k\u00f6nnen.", "language": "German", "translation": "One must still have chaos in oneself to give birth to a dancing star.", "attribution": "Friedrich Nietzsche"},
+  {"text": "Der Weg ist das Ziel.", "language": "German", "translation": "The journey is the destination.", "attribution": "Confucius (German)"},
+  {"text": "Wissen ist Macht.", "language": "German", "translation": "Knowledge is power.", "attribution": "Francis Bacon (German)"},
+  {"text": "\u00dcbung macht den Meister.", "language": "German", "translation": "Practice makes perfect.", "attribution": "German proverb"},
+  {"text": "Morgenstund hat Gold im Mund.", "language": "German", "translation": "The morning hour has gold in its mouth. (The early bird catches the worm.)", "attribution": "German proverb"},
+  {"text": "\u0644\u0627 \u062a\u0624\u062c\u0644 \u0639\u0645\u0644 \u0627\u0644\u064a\u0648\u0645 \u0625\u0644\u0649 \u0627\u0644\u063a\u062f.", "language": "Arabic", "translation": "Do not postpone today's work to tomorrow.", "attribution": "Arabic proverb"},
+  {"text": "\u0627\u0644\u0639\u0644\u0645 \u0646\u0648\u0631.", "language": "Arabic", "translation": "Knowledge is light.", "attribution": "Arabic proverb"},
+  {"text": "\u0627\u0644\u0635\u0628\u0631 \u0645\u0641\u062a\u0627\u062d \u0627\u0644\u0641\u0631\u062c.", "language": "Arabic", "translation": "Patience is the key to relief.", "attribution": "Arabic proverb"},
+  {"text": "\u0627\u0644\u0639\u0642\u0644 \u0632\u064a\u0646\u0629.", "language": "Arabic", "translation": "The mind is an adornment.", "attribution": "Arabic proverb"},
+  {"text": "\u0645\u0646 \u062c\u062f\u0651 \u0648\u062c\u062f.", "language": "Arabic", "translation": "He who strives shall find.", "attribution": "Arabic proverb"},
+  {"text": "\u0627\u0644\u0643\u062a\u0627\u0628 \u064a\u064f\u0642\u0631\u0623 \u0645\u0646 \u0639\u0646\u0648\u0627\u0646\u0647.", "language": "Arabic", "translation": "A book is read by its title. (You can judge by first impressions.)", "attribution": "Arabic proverb"},
+  {"text": "\u0625\u0630\u0627 \u0647\u0628\u0651\u062a \u0631\u064a\u0627\u062d \u0627\u0644\u062a\u063a\u064a\u064a\u0631 \u0641\u0627\u0628\u0646\u0650 \u0637\u0648\u0627\u062d\u064a\u0646 \u0644\u0627 \u062c\u062f\u0631\u0627\u0646\u0627.", "language": "Arabic", "translation": "When the winds of change blow, build windmills, not walls.", "attribution": "Arabic proverb"},
+  {"text": "Chi va piano, va sano e va lontano.", "language": "Italian", "translation": "He who goes slowly, goes safely and goes far.", "attribution": "Italian proverb"},
+  {"text": "Dopo la pioggia viene il sereno.", "language": "Italian", "translation": "After the rain comes clear sky.", "attribution": "Italian proverb"},
+  {"text": "La vita \u00e8 troppo breve per bere vini mediocri.", "language": "Italian", "translation": "Life is too short to drink mediocre wine.", "attribution": "Johann Wolfgang von Goethe"},
+  {"text": "Tra il dire e il fare c'\u00e8 di mezzo il mare.", "language": "Italian", "translation": "Between saying and doing lies the sea.", "attribution": "Italian proverb"},
+  {"text": "Chi dorme non piglia pesci.", "language": "Italian", "translation": "He who sleeps catches no fish.", "attribution": "Italian proverb"},
+  {"text": "L'abito non fa il monaco.", "language": "Italian", "translation": "The habit does not make the monk. (Don't judge by appearances.)", "attribution": "Italian proverb"},
+  {"text": "Sbagliando s'impara.", "language": "Italian", "translation": "By making mistakes, one learns.", "attribution": "Italian proverb"},
+  {"text": "\u041d\u0435 \u0432\u0441\u0451 \u0442\u043e \u0437\u043e\u043b\u043e\u0442\u043e, \u0447\u0442\u043e \u0431\u043b\u0435\u0441\u0442\u0438\u0442.", "language": "Russian", "translation": "Not all that glitters is gold.", "attribution": "Russian proverb"},
+  {"text": "\u0422\u0438\u0448\u0435 \u0435\u0434\u0435\u0448\u044c \u2014 \u0434\u0430\u043b\u044c\u0448\u0435 \u0431\u0443\u0434\u0435\u0448\u044c.", "language": "Russian", "translation": "The quieter you go, the further you'll get.", "attribution": "Russian proverb"},
+  {"text": "\u0414\u0440\u0443\u0437\u044c\u044f \u043f\u043e\u0437\u043d\u0430\u044e\u0442\u0441\u044f \u0432 \u0431\u0435\u0434\u0435.", "language": "Russian", "translation": "Friends are known in trouble.", "attribution": "Russian proverb"},
+  {"text": "\u0423\u0442\u0440\u043e \u0432\u0435\u0447\u0435\u0440\u0430 \u043c\u0443\u0434\u0440\u0435\u043d\u0435\u0435.", "language": "Russian", "translation": "The morning is wiser than the evening. (Sleep on it.)", "attribution": "Russian proverb"},
+  {"text": "\u0412 \u0442\u0438\u0445\u043e\u043c \u043e\u043c\u0443\u0442\u0435 \u0447\u0435\u0440\u0442\u0438 \u0432\u043e\u0434\u044f\u0442\u0441\u044f.", "language": "Russian", "translation": "Devils lurk in still waters.", "attribution": "Russian proverb"},
+  {"text": "El que no arriesga, no gana.", "language": "Spanish", "translation": "He who doesn't risk, doesn't win.", "attribution": "Spanish proverb"},
+  {"text": "No hay mal que por bien no venga.", "language": "Spanish", "translation": "There is no bad from which good does not come.", "attribution": "Spanish proverb"},
+  {"text": "M\u00e1s vale tarde que nunca.", "language": "Spanish", "translation": "Better late than never.", "attribution": "Spanish proverb"},
+  {"text": "En boca cerrada no entran moscas.", "language": "Spanish", "translation": "Flies don't enter a closed mouth. (Silence is golden.)", "attribution": "Spanish proverb"},
+  {"text": "Dime con qui\u00e9n andas, y te dir\u00e9 qui\u00e9n eres.", "language": "Spanish", "translation": "Tell me who you walk with, and I'll tell you who you are.", "attribution": "Spanish proverb"},
+  {"text": "No por mucho madrugar amanece m\u00e1s temprano.", "language": "Spanish", "translation": "No matter how early you rise, you can't make the sun come up sooner.", "attribution": "Spanish proverb"},
+  {"text": "Cada maestro tiene su librito.", "language": "Spanish", "translation": "Every master has his own little book. (Everyone has their own way.)", "attribution": "Spanish proverb"},
+  {"text": "\uc2dc\uc791\uc774 \ubc18\uc774\ub2e4.", "language": "Korean", "translation": "Starting is half the task.", "attribution": "Korean proverb"},
+  {"text": "\uace0\uc0dd \ub05d\uc5d0 \ub099\uc774 \uc628\ub2e4.", "language": "Korean", "translation": "At the end of hardship comes happiness.", "attribution": "Korean proverb"},
+  {"text": "\ub0a8\uc758 \ub5a1\uc774 \ucee4 \ubcf4\uc778\ub2e4.", "language": "Korean", "translation": "Other people's rice cakes always look bigger.", "attribution": "Korean proverb"},
+  {"text": "\uc6d0\uc218\uc774\ub97c \ub9c8\uc154\ub77c.", "language": "Korean", "translation": "Go to the source. (Get to the root of the problem.)", "attribution": "Korean proverb"},
+  {"text": "Quem n\u00e3o tem c\u00e3o, ca\u00e7a com gato.", "language": "Portuguese", "translation": "He who has no dog, hunts with a cat. (Make do with what you have.)", "attribution": "Portuguese proverb"},
+  {"text": "\u00c1gua mole em pedra dura, tanto bate at\u00e9 que fura.", "language": "Portuguese", "translation": "Soft water on hard stone, strikes until it bores through.", "attribution": "Portuguese proverb"},
+  {"text": "Quem n\u00e3o arrisca, n\u00e3o petisca.", "language": "Portuguese", "translation": "He who doesn't risk, doesn't snack. (Nothing ventured, nothing gained.)", "attribution": "Portuguese proverb"},
+  {"text": "\u0e17\u0e33\u0e14\u0e35\u0e44\u0e14\u0e49\u0e14\u0e35 \u0e17\u0e33\u0e0a\u0e31\u0e48\u0e27\u0e44\u0e14\u0e49\u0e0a\u0e31\u0e48\u0e27.", "language": "Thai", "translation": "Do good, receive good. Do evil, receive evil.", "attribution": "Thai proverb"},
+  {"text": "\u0e0a\u0e49\u0e32\u0e2a\u0e38\u0e14\u0e0b\u0e49\u0e32\u0e22\u0e2a\u0e38\u0e14 \u0e04\u0e37\u0e2d\u0e04\u0e19\u0e17\u0e35\u0e48\u0e2d\u0e14\u0e17\u0e19.", "language": "Thai", "translation": "The slowest elephant is the most enduring.", "attribution": "Thai proverb"},
+  {"text": "\u0939\u093e\u0930 \u0915\u0947 \u0906\u0917\u0947 \u091c\u0940\u0924 \u0939\u0948.", "language": "Hindi", "translation": "There is victory beyond defeat.", "attribution": "Hindi proverb"},
+  {"text": "\u091c\u0939\u093e\u0901 \u091a\u093e\u0939 \u0935\u0939\u093e\u0901 \u0930\u093e\u0939.", "language": "Hindi", "translation": "Where there's a will, there's a way.", "attribution": "Hindi proverb"},
+  {"text": "\u0915\u0930\u094d\u092e \u0915\u0930\u094b, \u092b\u0932 \u0915\u0940 \u091a\u093f\u0902\u0924\u093e \u092e\u0924 \u0915\u0930\u094b.", "language": "Hindi", "translation": "Do your work, do not worry about the results.", "attribution": "Bhagavad Gita"},
+  {"text": "\u03b3\u03bd\u1ff6\u03b8\u03b9 \u03c3\u03b5\u03b1\u03c5\u03c4\u03cc\u03bd.", "language": "Ancient Greek", "translation": "Know thyself.", "attribution": "Temple of Apollo at Delphi"},
+  {"text": "\u03bc\u03b7\u03b4\u03ad\u03bd \u03ac\u03b3\u03b1\u03bd.", "language": "Ancient Greek", "translation": "Nothing in excess.", "attribution": "Temple of Apollo at Delphi"},
+  {"text": "\u03c0\u03ac\u03bd\u03c4\u03b1 \u1fe5\u03b5\u1fd6.", "language": "Ancient Greek", "translation": "Everything flows.", "attribution": "Heraclitus"},
+  {"text": "\u1f00\u03bd\u03b5\u03be\u03ad\u03c4\u03b1\u03c3\u03c4\u03bf\u03c2 \u03b2\u03af\u03bf\u03c2 \u03bf\u1f50 \u03b2\u03b9\u03c9\u03c4\u03cc\u03c2 \u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u1ff3.", "language": "Ancient Greek", "translation": "The unexamined life is not worth living.", "attribution": "Socrates"},
+  {"text": "\u0627\u0644\u062d\u064a\u0627\u0629 \u0642\u0635\u064a\u0631\u0629 \u0648\u0627\u0644\u0641\u0646 \u0637\u0648\u064a\u0644.", "language": "Arabic", "translation": "Life is short and art is long.", "attribution": "Arabic proverb"},
+  {"text": "\u1f10\u03bd \u03bf\u1f36\u03b4\u03b1 \u1f45\u03c4\u03b9 \u03bf\u1f50\u03b4\u03ad\u03bd \u03bf\u1f36\u03b4\u03b1.", "language": "Ancient Greek", "translation": "I know that I know nothing.", "attribution": "Socrates"},
+  {"text": "Kto rano wstaje, temu Pan B\u00f3g daje.", "language": "Polish", "translation": "God gives to those who wake up early.", "attribution": "Polish proverb"},
+  {"text": "Nie m\u00f3w hop, p\u00f3ki nie przeskoczysz.", "language": "Polish", "translation": "Don't say 'hop' until you've jumped over.", "attribution": "Polish proverb"},
+  {"text": "Cz\u0142owiek uczy si\u0119 ca\u0142e \u017cycie.", "language": "Polish", "translation": "A person learns their whole life.", "attribution": "Polish proverb"},
+  {"text": "D\u01b0\u1edbi b\u00f3ng c\u00e2y to.", "language": "Vietnamese", "translation": "Under the shade of a big tree. (Find shelter with the powerful.)", "attribution": "Vietnamese proverb"},
+  {"text": "C\u00f3 c\u00f4ng m\u00e0i s\u1eaft c\u00f3 ng\u00e0y n\u00ean kim.", "language": "Vietnamese", "translation": "If you grind iron long enough, it becomes a needle.", "attribution": "Vietnamese proverb"},
+  {"text": "H\u1ecdc, h\u1ecdc n\u1eefa, h\u1ecdc m\u00e3i.", "language": "Vietnamese", "translation": "Learn, learn more, learn forever.", "attribution": "Vietnamese proverb"},
+  {"text": "Ak\u0131l ya\u015fta de\u011fil ba\u015ftad\u0131r.", "language": "Turkish", "translation": "Wisdom is not in age, but in the head.", "attribution": "Turkish proverb"},
+  {"text": "Damlaya damlaya g\u00f6l olur.", "language": "Turkish", "translation": "Drop by drop, a lake forms.", "attribution": "Turkish proverb"},
+  {"text": "Bir elin nesi var, iki elin sesi var.", "language": "Turkish", "translation": "One hand has nothing, two hands have sound. (Teamwork.)", "attribution": "Turkish proverb"},
+  {"text": "A buen entendedor, pocas palabras bastan.", "language": "Spanish", "translation": "For a good listener, few words are enough.", "attribution": "Spanish proverb"},
+  {"text": "\u10e0\u10d0\u10ea \u10d7\u10d0\u10d5\u10d0\u10d3 \u10d2\u10d0\u10e1\u10ea\u10d4, \u10e1\u10ee\u10d5\u10d0\u10e1 \u10d8\u10db\u10d0\u10e1 \u10db\u10d8\u10d0\u10dc\u10d8\u10ed\u10d4\u10d1.", "language": "Georgian", "translation": "What you give away, you keep; what you keep, you lose.", "attribution": "Shota Rustaveli, The Knight in the Panther's Skin"},
+  {"text": "Mwacha mila ni mtumwa.", "language": "Swahili", "translation": "He who abandons his culture is a slave.", "attribution": "Swahili proverb"},
+  {"text": "Haraka haraka haina baraka.", "language": "Swahili", "translation": "Hurry hurry has no blessing. (Haste makes waste.)", "attribution": "Swahili proverb"},
+  {"text": "Mtu ni watu.", "language": "Swahili", "translation": "A person is people. (I am because we are.)", "attribution": "Swahili proverb"},
+  {"text": "Polepole ndio mwendo.", "language": "Swahili", "translation": "Slowly is the way to go.", "attribution": "Swahili proverb"},
+  {"text": "\u05d0\u05d9\u05df \u05d7\u05db\u05de\u05d4 \u05db\u05d7\u05db\u05de\u05ea \u05d4\u05e0\u05d9\u05e1\u05d9\u05d5\u05df.", "language": "Hebrew", "translation": "There is no wisdom like the wisdom of experience.", "attribution": "Hebrew proverb"},
+  {"text": "\u05d0\u05d6 \u05e0\u05d9\u05d7\u05ea\u05dd \u05de\u05d4\u05d7\u05dc\u05d5\u05dd \u05e9\u05dc\u05d9.", "language": "Hebrew", "translation": "Then we were like dreamers.", "attribution": "Psalm 126"},
+  {"text": "Nemo propheta in patria sua.", "language": "Latin", "translation": "No one is a prophet in their own land.", "attribution": "Latin proverb"},
+  {"text": "Fortes fortuna adiuvat.", "language": "Latin", "translation": "Fortune favors the brave.", "attribution": "Terence"},
+  {"text": "In vino veritas.", "language": "Latin", "translation": "In wine, there is truth.", "attribution": "Pliny the Elder"},
+  {"text": "De gustibus non est disputandum.", "language": "Latin", "translation": "There is no disputing about tastes.", "attribution": "Latin proverb"},
+  {"text": "Qui tacet consentire videtur.", "language": "Latin", "translation": "He who is silent is seen to consent.", "attribution": "Latin legal maxim"},
+  {"text": "Non scholae, sed vitae discimus.", "language": "Latin", "translation": "We learn not for school, but for life.", "attribution": "Seneca"},
+  {"text": "Vincit qui se vincit.", "language": "Latin", "translation": "He conquers who conquers himself.", "attribution": "Latin proverb"},
+  {"text": "Le bonheur est parfois cach\u00e9 dans l'inconnu.", "language": "French", "translation": "Happiness is sometimes hidden in the unknown.", "attribution": "Victor Hugo"},
+  {"text": "La libert\u00e9 commence o\u00f9 l'ignorance finit.", "language": "French", "translation": "Freedom begins where ignorance ends.", "attribution": "Victor Hugo"},
+  {"text": "Vivre, c'est s'obstiner \u00e0 achever un souvenir.", "language": "French", "translation": "To live is to persist in completing a memory.", "attribution": "Ren\u00e9 Char"},
+  {"text": "Chaque homme porte la forme enti\u00e8re de l'humaine condition.", "language": "French", "translation": "Every man bears the whole form of the human condition.", "attribution": "Michel de Montaigne"},
+  {"text": "Nur wer seinen eigenen Weg geht, kann von niemandem \u00fcberholt werden.", "language": "German", "translation": "Only he who goes his own way can never be overtaken.", "attribution": "Marlon Brando (German)"},
+  {"text": "Wer mit Ungeheuern k\u00e4mpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird.", "language": "German", "translation": "He who fights with monsters should see to it that he does not become a monster.", "attribution": "Friedrich Nietzsche"},
+  {"text": "Die Welt ist so sch\u00f6n und wert, dass man um sie k\u00e4mpft.", "language": "German", "translation": "The world is so beautiful and worth fighting for.", "attribution": "Ernest Hemingway (German)"},
+  {"text": "Wer immer strebend sich bem\u00fcht, den k\u00f6nnen wir erl\u00f6sen.", "language": "German", "translation": "He who strives on and lives to strive, can earn redemption still.", "attribution": "Goethe, Faust"},
+  {"text": "\u7f8e\u306f\u529b\u306a\u308a.", "language": "Japanese", "translation": "Beauty is power.", "attribution": "Japanese proverb"},
+  {"text": "\u5149\u9670\u77e2\u306e\u5982\u3057.", "language": "Japanese", "translation": "Time flies like an arrow.", "attribution": "Japanese proverb"},
+  {"text": "\u82b1\u9ce5\u98a8\u6708.", "language": "Japanese", "translation": "Flower, bird, wind, moon. (The beauty of nature.)", "attribution": "Japanese aesthetic concept"},
+  {"text": "\u308f\u3073\u3055\u3073.", "language": "Japanese", "translation": "The beauty of impermanence and imperfection.", "attribution": "Japanese aesthetic concept"},
+  {"text": "\u751f\u304d\u7532\u6590.", "language": "Japanese", "translation": "A reason for being.", "attribution": "Japanese concept"},
+  {"text": "Onde h\u00e1 fuma\u00e7a, h\u00e1 fogo.", "language": "Portuguese", "translation": "Where there's smoke, there's fire.", "attribution": "Portuguese proverb"},
+  {"text": "A esperan\u00e7a \u00e9 a \u00faltima que morre.", "language": "Portuguese", "translation": "Hope is the last to die.", "attribution": "Portuguese proverb"},
+  {"text": "\u0416\u0438\u0437\u043d\u044c \u043f\u0440\u043e\u0436\u0438\u0442\u044c \u2014 \u043d\u0435 \u043f\u043e\u043b\u0435 \u043f\u0435\u0440\u0435\u0439\u0442\u0438.", "language": "Russian", "translation": "Living life is not like crossing a field.", "attribution": "Boris Pasternak"},
+  {"text": "\u041a\u0440\u0430\u0441\u043e\u0442\u0430 \u0441\u043f\u0430\u0441\u0451\u0442 \u043c\u0438\u0440.", "language": "Russian", "translation": "Beauty will save the world.", "attribution": "Fyodor Dostoevsky"},
+  {"text": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a \u2014 \u044d\u0442\u043e \u0437\u0432\u0443\u0447\u0438\u0442 \u0433\u043e\u0440\u0434\u043e.", "language": "Russian", "translation": "Man \u2014 that has a proud ring to it.", "attribution": "Maxim Gorky"},
+  {"text": "\uc138 \uc0b4 \ubc84\ub987 \uc5ec\ub4e0\uae4c\uc9c0 \uac04\ub2e4.", "language": "Korean", "translation": "Habits formed at three last until eighty.", "attribution": "Korean proverb"},
+  {"text": "\ubb3c\uc774 \uae4a\uc744\uc218\ub85d \uc18c\ub9ac\uac00 \uc5c6\ub2e4.", "language": "Korean", "translation": "The deeper the water, the quieter it is. (Still waters run deep.)", "attribution": "Korean proverb"},
+  {"text": "Wer rastet, der rostet.", "language": "German", "translation": "He who rests, rusts.", "attribution": "German proverb"},
+  {"text": "Az ember tervez, Isten v\u00e9gez.", "language": "Hungarian", "translation": "Man plans, God finishes.", "attribution": "Hungarian proverb"},
+  {"text": "V\u00e4gen till helvetet \u00e4r kantad med goda f\u00f6resatser.", "language": "Swedish", "translation": "The road to hell is paved with good intentions.", "attribution": "Swedish proverb"},
+  {"text": "\u0915\u0930\u094d\u092e\u0923\u094d\u092f\u0947\u0935\u093e\u0927\u093f\u0915\u093e\u0930\u0938\u094d\u0924\u0947.", "language": "Sanskrit", "translation": "Your right is to action alone, never to its fruits.", "attribution": "Bhagavad Gita"},
+  {"text": "\u0935\u0938\u0941\u0927\u0948\u0935 \u0915\u0941\u091f\u0941\u092e\u094d\u092c\u0915\u092e\u094d.", "language": "Sanskrit", "translation": "The world is one family.", "attribution": "Maha Upanishad"},
+  {"text": "\u0905\u0939\u093f\u0902\u0938\u093e \u092a\u0930\u092e\u094b \u0927\u0930\u094d\u092e\u0903.", "language": "Sanskrit", "translation": "Non-violence is the highest virtue.", "attribution": "Mahabharata"},
+  {"text": "Tab\u00edy\u00e1t \u00e1frin-i hunar ast.", "language": "Persian", "translation": "Nature is the creator of art.", "attribution": "Persian proverb"},
+  {"text": "\u0627\u06cc\u0646 \u0646\u06cc\u0632 \u0628\u06af\u0630\u0631\u062f.", "language": "Persian", "translation": "This too shall pass.", "attribution": "Persian adage"},
+  {"text": "Nani gigantum humeris insidentes.", "language": "Latin", "translation": "Standing on the shoulders of giants.", "attribution": "Bernard of Chartres"}
 ]

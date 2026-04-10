@@ -29,6 +29,14 @@ def generate_image(
         ),
     )
 
+    usage = response.usage_metadata
+    if usage:
+        logger.info(
+            f"Image gen tokens — in: {usage.prompt_token_count}, "
+            f"out: {usage.candidates_token_count}, "
+            f"total: {usage.total_token_count}"
+        )
+
     for part in response.parts:
         if part.inline_data is not None:
             # Convert google.genai Image to PIL Image

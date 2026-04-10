@@ -316,19 +316,34 @@ _register(Theme(
 # --- Headline Theme (dynamic style selection) ---
 
 _HEADLINE_LEGO = (
-    "Rendered in THE LEGO MOVIE animation style — everything in the scene is BUILT FROM LEGO "
-    "BRICKS. Characters are Lego minifigures with yellow skin, C-shaped hands, and blocky hair "
-    "pieces. The environment is constructed entirely from Lego bricks, plates, and specialty pieces "
-    "with visible studs, brick seams, and slight plastic sheen on every surface. Lighting has that "
-    "signature Lego Movie warmth with slight tilt-shift depth of field to sell the miniature scale. "
+    "Rendered as a PHOTOREALISTIC 3D CGI RENDER of LEGO bricks and minifigures — NOT drawn, NOT "
+    "illustrated, NOT cartoon, NOT flat. This MUST look like a REAL PHOTOGRAPH of actual Lego pieces "
+    "on a table, or like a frame from The Lego Movie with full 3D ray-traced rendering. Every brick "
+    "must have REALISTIC plastic material — glossy sheen, subtle reflections, fingerprint smudges, "
+    "visible injection mold seams on studs, sharp geometric edges. Characters are Lego minifigures "
+    "with yellow skin, C-shaped hands, and blocky hair pieces. The environment is constructed "
+    "entirely from Lego bricks, plates, and specialty pieces with visible studs, brick seams, and "
+    "realistic plastic surface texture. Lighting is cinematic with soft shadows, ambient occlusion "
+    "between bricks, depth of field blur, and slight tilt-shift to sell the miniature scale. "
     "CRITICAL: Read the headlines and identify the SINGLE BIGGEST, most dramatic story. Build the "
     "ENTIRE SCENE around depicting THAT story using Lego minifigs acting it out — politicians as "
     "minifigs at a Lego podium, tech stories as minifig engineers building a Lego computer, "
     "sports stories as minifig athletes on a Lego field, conflict stories as minifig soldiers "
     "with Lego vehicles. The scene should be IMMEDIATELY RECOGNIZABLE as that news story. "
-    "The remaining headlines appear on LEGO newspaper pieces, Lego TV screens, Lego billboards, "
-    "and printed Lego tiles scattered in the scene. Quotes appear on a Lego scroll held by a "
-    "wise wizard minifigure. Proverbs on a Lego temple wall. The date on a Lego calendar brick. "
+    "MAKE THE SCENE BUSY AND PACKED WITH DETAIL. The main story dominates the center, but the "
+    "edges and fringes of the image should be TEEMING with secondary Lego vignettes inspired by "
+    "OTHER headlines — a tiny Lego newsroom in one corner with minifig anchors, a Lego stock "
+    "ticker scrolling across a building, minifig protesters with tiny signs, a Lego construction "
+    "crew building something related to a tech headline, a Lego courtroom drama playing out in "
+    "the background, a miniature Lego sports stadium visible behind buildings, Lego delivery "
+    "trucks with newspaper bundles, a Lego hot dog cart where minifigs read tiny newspapers. "
+    "Every corner and background area should reward closer inspection with another headline-inspired "
+    "micro-scene. Think of it like a Lego WHERE'S WALDO — dense, chaotic, delightful. "
+    "Headlines appear on LEGO newspaper pieces, Lego TV screens, Lego billboards, Lego store "
+    "signs, printed Lego tiles, sandwich board signs carried by minifigs, banners towed by Lego "
+    "planes, scrolling text on Lego buses, and graffiti on Lego walls. Quotes appear on a Lego "
+    "scroll held by a wise wizard minifigure. Proverbs on a Lego temple wall. The date on a "
+    "Lego calendar brick. "
     "ALL typography in BOLD, CHUNKY, PLAYFUL block letters — like the Lego logo font or similar "
     "rounded bold sans-serif. Text on printed Lego tiles. Everything is fun, colorful, tactile. "
     "Bright primary colors: red, blue, yellow, green Lego bricks. Slight motion blur on moving "
@@ -367,9 +382,25 @@ def _headline_style() -> str:
 _headline_theme = Theme(
     name="Headline",
     slug="headline",
-    description="Top news story depicted in Lego Movie or Pixar animation style",
+    description="Top news story depicted in Lego Movie or Pixar animation style (random)",
     style_prompt="",  # filled dynamically via _style_fn
     color_hints="Works with any color setting. BW creates dramatic contrast in both styles.",
 )
 _headline_theme._style_fn = _headline_style  # type: ignore[attr-defined]
 _register(_headline_theme)
+
+_register(Theme(
+    name="Headline (Lego)",
+    slug="headline-lego",
+    description="Top news story depicted in Lego Movie minifig style",
+    style_prompt=_HEADLINE_LEGO,
+    color_hints="Works with any color setting. BW creates dramatic contrast.",
+))
+
+_register(Theme(
+    name="Headline (Pixar)",
+    slug="headline-pixar",
+    description="Top news story depicted in Pixar 3D CGI animation style",
+    style_prompt=_HEADLINE_PIXAR,
+    color_hints="Works with any color setting. BW creates dramatic contrast.",
+))

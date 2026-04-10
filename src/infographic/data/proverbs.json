@@ -1,152 +1,81 @@
 [
-  {
-    "chinese": "\u5343\u91cc\u4e4b\u884c\uff0c\u59cb\u4e8e\u8db3\u4e0b",
-    "pinyin": "qi\u0101n l\u01d0 zh\u012b x\u00edng, sh\u01d0 y\u00fa z\u00fa xi\u00e0",
-    "translation": "A journey of a thousand miles begins with a single step.",
-    "source": "Laozi, Tao Te Ching"
-  },
-  {
-    "chinese": "\u5b66\u800c\u4e0d\u601d\u5219\u7f54\uff0c\u601d\u800c\u4e0d\u5b66\u5219\u6b86",
-    "pinyin": "xu\u00e9 \u00e9r b\u00f9 s\u012b z\u00e9 w\u01ceng, s\u012b \u00e9r b\u00f9 xu\u00e9 z\u00e9 d\u00e0i",
-    "translation": "Learning without thought is labor lost; thought without learning is perilous.",
-    "source": "Confucius, Analerta"
-  },
-  {
-    "chinese": "\u4e0d\u79ef\u8dde\u6b65\uff0c\u65e0\u4ee5\u81f3\u5343\u91cc",
-    "pinyin": "b\u00f9 j\u012b ku\u01d0 b\u00f9, w\u00fa y\u01d0 zh\u00ec qi\u0101n l\u01d0",
-    "translation": "Without accumulating small steps, one cannot reach a thousand miles.",
-    "source": "Xunzi"
-  },
-  {
-    "chinese": "\u6709\u5fd7\u8005\u4e8b\u7adf\u6210",
-    "pinyin": "y\u01d2u zh\u00ec zh\u011b sh\u00ec j\u00ecng ch\u00e9ng",
-    "translation": "Where there is a will, there is a way.",
-    "source": "Book of the Later Han"
-  },
-  {
-    "chinese": "\u77e5\u5df1\u77e5\u5f7c\uff0c\u767e\u6218\u4e0d\u6b86",
-    "pinyin": "zh\u012b j\u01d0 zh\u012b b\u01d0, b\u01cei zh\u00e0n b\u00f9 d\u00e0i",
-    "translation": "Know yourself and know your enemy, and you will never be defeated.",
-    "source": "Sun Tzu, The Art of War"
-  },
-  {
-    "chinese": "\u5de5\u6b32\u5584\u5176\u4e8b\uff0c\u5fc5\u5148\u5229\u5176\u5668",
-    "pinyin": "g\u014dng y\u00f9 sh\u00e0n q\u00ed sh\u00ec, b\u00ec xi\u0101n l\u00ec q\u00ed q\u00ec",
-    "translation": "A craftsman must first sharpen his tools to do his work well.",
-    "source": "Confucius, Analects"
-  },
-  {
-    "chinese": "\u4e09\u4eba\u884c\uff0c\u5fc5\u6709\u6211\u5e08",
-    "pinyin": "s\u0101n r\u00e9n x\u00edng, b\u00ec y\u01d2u w\u01d2 sh\u012b",
-    "translation": "Among three people walking, I will find my teacher.",
-    "source": "Confucius, Analects"
-  },
-  {
-    "chinese": "\u5b66\u65e0\u6b62\u5883",
-    "pinyin": "xu\u00e9 w\u00fa zh\u01d0 j\u00ecng",
-    "translation": "Learning has no boundaries.",
-    "source": "Chinese proverb"
-  },
-  {
-    "chinese": "\u6c34\u6ef4\u77f3\u7a7f",
-    "pinyin": "shu\u01d0 d\u012b sh\u00ed chu\u0101n",
-    "translation": "Dripping water pierces stone. (Persistence overcomes all.)",
-    "source": "Chinese proverb"
-  },
-  {
-    "chinese": "\u4e66\u5c71\u6709\u8def\u52e4\u4e3a\u5f84",
-    "pinyin": "sh\u016b sh\u0101n y\u01d2u l\u00f9 q\u00edn w\u00e9i j\u00ecng",
-    "translation": "In the mountain of books, diligence is the path.",
-    "source": "Han Yu"
-  },
-  {
-    "chinese": "\u6b32\u901f\u5219\u4e0d\u8fbe",
-    "pinyin": "y\u00f9 s\u00f9 z\u00e9 b\u00f9 d\u00e1",
-    "translation": "Haste makes waste.",
-    "source": "Confucius, Analects"
-  },
-  {
-    "chinese": "\u99ac\u5230\u6210\u529f",
-    "pinyin": "m\u01ce d\u00e0o ch\u00e9ng g\u014dng",
-    "translation": "Success upon arrival. (Instant success.)",
-    "source": "Chinese idiom"
-  },
-  {
-    "chinese": "\u767e\u95fb\u4e0d\u5982\u4e00\u89c1",
-    "pinyin": "b\u01cei w\u00e9n b\u00f9 r\u00fa y\u012b ji\u00e0n",
-    "translation": "Seeing once is better than hearing a hundred times.",
-    "source": "Book of Han"
-  },
-  {
-    "chinese": "\u5931\u8d25\u4e43\u6210\u529f\u4e4b\u6bcd",
-    "pinyin": "sh\u012b b\u00e0i n\u01cei ch\u00e9ng g\u014dng zh\u012b m\u01d4",
-    "translation": "Failure is the mother of success.",
-    "source": "Chinese proverb"
-  },
-  {
-    "chinese": "\u5c11\u58ee\u4e0d\u52aa\u529b\uff0c\u8001\u5927\u5f92\u4f24\u60b2",
-    "pinyin": "sh\u00e0o zhu\u00e0ng b\u00f9 n\u01d4 l\u00ec, l\u01ceo d\u00e0 t\u00fa sh\u0101ng b\u0113i",
-    "translation": "If one does not exert oneself in youth, one will regret it in old age.",
-    "source": "Han Dynasty folk song"
-  },
-  {
-    "chinese": "\u8def\u9065\u77e5\u9a6c\u529b\uff0c\u65e5\u4e45\u89c1\u4eba\u5fc3",
-    "pinyin": "l\u00f9 y\u00e1o zh\u012b m\u01ce l\u00ec, r\u00ec ji\u01d4 ji\u00e0n r\u00e9n x\u012bn",
-    "translation": "Distance tests a horse's strength; time reveals a person's heart.",
-    "source": "Chinese proverb"
-  },
-  {
-    "chinese": "\u5929\u751f\u6211\u6750\u5fc5\u6709\u7528",
-    "pinyin": "ti\u0101n sh\u0113ng w\u01d2 c\u00e1i b\u00ec y\u01d2u y\u00f2ng",
-    "translation": "Heaven has endowed me with talents that must be of use.",
-    "source": "Li Bai"
-  },
-  {
-    "chinese": "\u9752\u51fa\u4e8e\u84dd\u800c\u80dc\u4e8e\u84dd",
-    "pinyin": "q\u012bng ch\u016b y\u00fa l\u00e1n \u00e9r sh\u00e8ng y\u00fa l\u00e1n",
-    "translation": "The student surpasses the master.",
-    "source": "Xunzi"
-  },
-  {
-    "chinese": "\u4e0d\u5230\u957f\u57ce\u975e\u597d\u6c49",
-    "pinyin": "b\u00f9 d\u00e0o ch\u00e1ng ch\u00e9ng f\u0113i h\u01ceo h\u00e0n",
-    "translation": "One who has never been to the Great Wall is not a true hero.",
-    "source": "Mao Zedong"
-  },
-  {
-    "chinese": "\u6709\u670b\u81ea\u8fdc\u65b9\u6765\uff0c\u4e0d\u4ea6\u4e50\u4e4e",
-    "pinyin": "y\u01d2u p\u00e9ng z\u00ec yu\u01cen f\u0101ng l\u00e1i, b\u00f9 y\u00ec l\u00e8 h\u016b",
-    "translation": "Is it not a joy to have friends come from afar?",
-    "source": "Confucius, Analects"
-  },
-  {
-    "chinese": "\u5c71\u4e0d\u5728\u9ad8\uff0c\u6709\u4ed9\u5219\u540d",
-    "pinyin": "sh\u0101n b\u00f9 z\u00e0i g\u0101o, y\u01d2u xi\u0101n z\u00e9 m\u00edng",
-    "translation": "A mountain is famous not for its height, but for the immortals who dwell there.",
-    "source": "Liu Yuxi"
-  },
-  {
-    "chinese": "\u4e00\u5bf8\u5149\u9634\u4e00\u5bf8\u91d1",
-    "pinyin": "y\u012b c\u00f9n gu\u0101ng y\u012bn y\u012b c\u00f9n j\u012bn",
-    "translation": "An inch of time is an inch of gold.",
-    "source": "Chinese proverb"
-  },
-  {
-    "chinese": "\u5fc3\u6025\u5403\u4e0d\u4e86\u70ed\u8c46\u8150",
-    "pinyin": "x\u012bn j\u00ed ch\u012b b\u00f9 li\u01ceo r\u00e8 d\u00f2u f\u01d4",
-    "translation": "Impatience will not let you eat hot tofu. (Good things take time.)",
-    "source": "Chinese proverb"
-  },
-  {
-    "chinese": "\u5b9e\u4e8b\u6c42\u662f",
-    "pinyin": "sh\u00ed sh\u00ec qi\u00fa sh\u00ec",
-    "translation": "Seek truth from facts.",
-    "source": "Book of Han"
-  },
-  {
-    "chinese": "\u4e07\u4e8b\u5f00\u5934\u96be",
-    "pinyin": "w\u00e0n sh\u00ec k\u0101i t\u00f3u n\u00e1n",
-    "translation": "The beginning of all things is difficult.",
-    "source": "Chinese proverb"
-  }
+  {"chinese": "\u5343\u91cc\u4e4b\u884c\uff0c\u59cb\u4e8e\u8db3\u4e0b", "pinyin": "qi\u0101n l\u01d0 zh\u012b x\u00edng, sh\u01d0 y\u00fa z\u00fa xi\u00e0", "translation": "A journey of a thousand miles begins with a single step.", "source": "Laozi"},
+  {"chinese": "\u5b66\u800c\u4e0d\u601d\u5219\u7f54\uff0c\u601d\u800c\u4e0d\u5b66\u5219\u6b86", "pinyin": "xu\u00e9 \u00e9r b\u00f9 s\u012b z\u00e9 w\u01ceng, s\u012b \u00e9r b\u00f9 xu\u00e9 z\u00e9 d\u00e0i", "translation": "Learning without thought is labor lost; thought without learning is perilous.", "source": "Confucius"},
+  {"chinese": "\u4e0d\u79ef\u8dde\u6b65\uff0c\u65e0\u4ee5\u81f3\u5343\u91cc", "pinyin": "b\u00f9 j\u012b ku\u01d0 b\u00f9, w\u00fa y\u01d0 zh\u00ec qi\u0101n l\u01d0", "translation": "Without accumulating small steps, one cannot reach a thousand miles.", "source": "Xunzi"},
+  {"chinese": "\u6709\u5fd7\u8005\u4e8b\u7adf\u6210", "pinyin": "y\u01d2u zh\u00ec zh\u011b sh\u00ec j\u00ecng ch\u00e9ng", "translation": "Where there is a will, there is a way.", "source": "Book of the Later Han"},
+  {"chinese": "\u77e5\u5df1\u77e5\u5f7c\uff0c\u767e\u6218\u4e0d\u6b86", "pinyin": "zh\u012b j\u01d0 zh\u012b b\u01d0, b\u01cei zh\u00e0n b\u00f9 d\u00e0i", "translation": "Know yourself and know your enemy, and you will never be defeated.", "source": "Sun Tzu"},
+  {"chinese": "\u5de5\u6b32\u5584\u5176\u4e8b\uff0c\u5fc5\u5148\u5229\u5176\u5668", "pinyin": "g\u014dng y\u00f9 sh\u00e0n q\u00ed sh\u00ec, b\u00ec xi\u0101n l\u00ec q\u00ed q\u00ec", "translation": "A craftsman must first sharpen his tools to do his work well.", "source": "Confucius"},
+  {"chinese": "\u4e09\u4eba\u884c\uff0c\u5fc5\u6709\u6211\u5e08", "pinyin": "s\u0101n r\u00e9n x\u00edng, b\u00ec y\u01d2u w\u01d2 sh\u012b", "translation": "Among three people walking, I will find my teacher.", "source": "Confucius"},
+  {"chinese": "\u6c34\u6ef4\u77f3\u7a7f", "pinyin": "shu\u01d0 d\u012b sh\u00ed chu\u0101n", "translation": "Dripping water pierces stone.", "source": "Chinese proverb"},
+  {"chinese": "\u6b32\u901f\u5219\u4e0d\u8fbe", "pinyin": "y\u00f9 s\u00f9 z\u00e9 b\u00f9 d\u00e1", "translation": "Haste makes waste.", "source": "Confucius"},
+  {"chinese": "\u767e\u95fb\u4e0d\u5982\u4e00\u89c1", "pinyin": "b\u01cei w\u00e9n b\u00f9 r\u00fa y\u012b ji\u00e0n", "translation": "Seeing once is better than hearing a hundred times.", "source": "Book of Han"},
+  {"chinese": "\u5931\u8d25\u4e43\u6210\u529f\u4e4b\u6bcd", "pinyin": "sh\u012b b\u00e0i n\u01cei ch\u00e9ng g\u014dng zh\u012b m\u01d4", "translation": "Failure is the mother of success.", "source": "Chinese proverb"},
+  {"chinese": "\u8def\u9065\u77e5\u9a6c\u529b\uff0c\u65e5\u4e45\u89c1\u4eba\u5fc3", "pinyin": "l\u00f9 y\u00e1o zh\u012b m\u01ce l\u00ec, r\u00ec ji\u01d4 ji\u00e0n r\u00e9n x\u012bn", "translation": "Distance tests a horse's strength; time reveals a person's heart.", "source": "Chinese proverb"},
+  {"chinese": "\u5929\u751f\u6211\u6750\u5fc5\u6709\u7528", "pinyin": "ti\u0101n sh\u0113ng w\u01d2 c\u00e1i b\u00ec y\u01d2u y\u00f2ng", "translation": "Heaven has endowed me with talents that must be of use.", "source": "Li Bai"},
+  {"chinese": "\u9752\u51fa\u4e8e\u84dd\u800c\u80dc\u4e8e\u84dd", "pinyin": "q\u012bng ch\u016b y\u00fa l\u00e1n \u00e9r sh\u00e8ng y\u00fa l\u00e1n", "translation": "The student surpasses the master.", "source": "Xunzi"},
+  {"chinese": "\u4e0d\u5230\u957f\u57ce\u975e\u597d\u6c49", "pinyin": "b\u00f9 d\u00e0o ch\u00e1ng ch\u00e9ng f\u0113i h\u01ceo h\u00e0n", "translation": "One who has never been to the Great Wall is not a true hero.", "source": "Mao Zedong"},
+  {"chinese": "\u6709\u670b\u81ea\u8fdc\u65b9\u6765\uff0c\u4e0d\u4ea6\u4e50\u4e4e", "pinyin": "y\u01d2u p\u00e9ng z\u00ec yu\u01cen f\u0101ng l\u00e1i, b\u00f9 y\u00ec l\u00e8 h\u016b", "translation": "Is it not a joy to have friends come from afar?", "source": "Confucius"},
+  {"chinese": "\u5c71\u4e0d\u5728\u9ad8\uff0c\u6709\u4ed9\u5219\u540d", "pinyin": "sh\u0101n b\u00f9 z\u00e0i g\u0101o, y\u01d2u xi\u0101n z\u00e9 m\u00edng", "translation": "A mountain is famous not for its height, but for the immortals who dwell there.", "source": "Liu Yuxi"},
+  {"chinese": "\u4e00\u5bf8\u5149\u9634\u4e00\u5bf8\u91d1", "pinyin": "y\u012b c\u00f9n gu\u0101ng y\u012bn y\u012b c\u00f9n j\u012bn", "translation": "An inch of time is an inch of gold.", "source": "Chinese proverb"},
+  {"chinese": "\u5fc3\u6025\u5403\u4e0d\u4e86\u70ed\u8c46\u8150", "pinyin": "x\u012bn j\u00ed ch\u012b b\u00f9 li\u01ceo r\u00e8 d\u00f2u f\u01d4", "translation": "Impatience will not let you eat hot tofu.", "source": "Chinese proverb"},
+  {"chinese": "\u5b9e\u4e8b\u6c42\u662f", "pinyin": "sh\u00ed sh\u00ec qi\u00fa sh\u00ec", "translation": "Seek truth from facts.", "source": "Book of Han"},
+  {"chinese": "\u4e07\u4e8b\u5f00\u5934\u96be", "pinyin": "w\u00e0n sh\u00ec k\u0101i t\u00f3u n\u00e1n", "translation": "The beginning of all things is difficult.", "source": "Chinese proverb"},
+  {"chinese": "\u5165\u4e61\u968f\u4fd7", "pinyin": "r\u00f9 xi\u0101ng su\u00ed s\u00fa", "translation": "When in Rome, do as the Romans do.", "source": "Chinese proverb"},
+  {"chinese": "\u4e00\u65e5\u4e3a\u5e08\uff0c\u7ec8\u8eab\u4e3a\u7236", "pinyin": "y\u012b r\u00ec w\u00e9i sh\u012b, zh\u014dng sh\u0113n w\u00e9i f\u00f9", "translation": "A teacher for a day is a father for a lifetime.", "source": "Chinese proverb"},
+  {"chinese": "\u53ea\u8981\u529f\u592b\u6df1\uff0c\u94c1\u6746\u78e8\u6210\u9488", "pinyin": "zh\u01d0 y\u00e0o g\u014dng fu sh\u0113n, ti\u011b g\u01cen m\u00f3 ch\u00e9ng zh\u0113n", "translation": "With enough effort, an iron rod can be ground into a needle.", "source": "Chinese proverb"},
+  {"chinese": "\u4eba\u65e0\u8fdc\u8651\uff0c\u5fc5\u6709\u8fd1\u5fe7", "pinyin": "r\u00e9n w\u00fa yu\u01cen l\u01dc, b\u00ec y\u01d2u j\u00ecn y\u014du", "translation": "He who does not plan for the future will find trouble at his doorstep.", "source": "Confucius"},
+  {"chinese": "\u5c3a\u6709\u6240\u77ed\uff0c\u5bf8\u6709\u6240\u957f", "pinyin": "ch\u01d0 y\u01d2u su\u01d2 du\u01cen, c\u00f9n y\u01d2u su\u01d2 ch\u00e1ng", "translation": "Everyone has strengths and weaknesses.", "source": "Qu Yuan"},
+  {"chinese": "\u4e0d\u7ecf\u4e00\u4e8b\uff0c\u4e0d\u957f\u4e00\u667a", "pinyin": "b\u00f9 j\u012bng y\u012b sh\u00ec, b\u00f9 zh\u01ceng y\u012b zh\u00ec", "translation": "One cannot grow in wisdom without experiencing hardship.", "source": "Chinese proverb"},
+  {"chinese": "\u4e00\u8a00\u65e2\u51fa\uff0c\u9a77\u9a6c\u96be\u8ffd", "pinyin": "y\u012b y\u00e1n j\u00ec ch\u016b, s\u00ec m\u01ce n\u00e1n zhu\u012b", "translation": "Once a word leaves your mouth, even four horses cannot chase it back.", "source": "Chinese proverb"},
+  {"chinese": "\u5927\u667a\u82e5\u611a", "pinyin": "d\u00e0 zh\u00ec ru\u00f2 y\u00fa", "translation": "Great wisdom appears as foolishness.", "source": "Laozi"},
+  {"chinese": "\u4e0a\u5584\u82e5\u6c34", "pinyin": "sh\u00e0ng sh\u00e0n ru\u00f2 shu\u01d0", "translation": "The highest goodness is like water.", "source": "Laozi"},
+  {"chinese": "\u9053\u53ef\u9053\uff0c\u975e\u5e38\u9053", "pinyin": "d\u00e0o k\u011b d\u00e0o, f\u0113i ch\u00e1ng d\u00e0o", "translation": "The Tao that can be spoken is not the eternal Tao.", "source": "Laozi"},
+  {"chinese": "\u5929\u4e0b\u6ca1\u6709\u4e0d\u6563\u7684\u7b75\u5e2d", "pinyin": "ti\u0101n xi\u00e0 m\u00e9i y\u01d2u b\u00f9 s\u00e0n de y\u00e1n x\u00ed", "translation": "There is no banquet under heaven that does not end.", "source": "Chinese proverb"},
+  {"chinese": "\u6d41\u6c34\u4e0d\u8150\uff0c\u6237\u67a2\u4e0d\u86f9", "pinyin": "li\u00fa shu\u01d0 b\u00f9 f\u01d4, h\u00f9 sh\u016b b\u00f9 d\u00f9", "translation": "Running water does not rot; a door hinge does not rust.", "source": "L\u00fc Buwei"},
+  {"chinese": "\u7559\u5f97\u9752\u5c71\u5728\uff0c\u4e0d\u6101\u6ca1\u67f4\u70e7", "pinyin": "li\u00fa d\u00e9 q\u012bng sh\u0101n z\u00e0i, b\u00f9 ch\u00f3u m\u00e9i ch\u00e1i sh\u0101o", "translation": "As long as the green hills remain, there is no need to worry about firewood.", "source": "Chinese proverb"},
+  {"chinese": "\u5403\u4e00\u5802\uff0c\u957f\u4e00\u667a", "pinyin": "ch\u012b y\u012b qi\u00e0n, zh\u01ceng y\u012b zh\u00ec", "translation": "A fall into a pit, a gain in your wit.", "source": "Chinese proverb"},
+  {"chinese": "\u7b11\u4e00\u7b11\uff0c\u5341\u5e74\u5c11", "pinyin": "xi\u00e0o y\u012b xi\u00e0o, sh\u00ed ni\u00e1n sh\u00e0o", "translation": "A smile makes you ten years younger.", "source": "Chinese proverb"},
+  {"chinese": "\u8fd1\u6731\u8005\u8d64\uff0c\u8fd1\u58a8\u8005\u9ed1", "pinyin": "j\u00ecn zh\u016b zh\u011b ch\u00ec, j\u00ecn m\u00f2 zh\u011b h\u0113i", "translation": "You become like your companions.", "source": "Chinese proverb"},
+  {"chinese": "\u4e0d\u6015\u6162\uff0c\u5c31\u6015\u7ad9", "pinyin": "b\u00f9 p\u00e0 m\u00e0n, ji\u00f9 p\u00e0 zh\u00e0n", "translation": "Don't fear going slowly, only fear standing still.", "source": "Chinese proverb"},
+  {"chinese": "\u91d1\u65e0\u8db3\u8d64\uff0c\u4eba\u65e0\u5b8c\u4eba", "pinyin": "j\u012bn w\u00fa z\u00fa ch\u00ec, r\u00e9n w\u00fa w\u00e1n r\u00e9n", "translation": "Gold cannot be pure, and people cannot be perfect.", "source": "Chinese proverb"},
+  {"chinese": "\u5341\u5e74\u6811\u6728\uff0c\u767e\u5e74\u6811\u4eba", "pinyin": "sh\u00ed ni\u00e1n sh\u00f9 m\u00f9, b\u01cei ni\u00e1n sh\u00f9 r\u00e9n", "translation": "It takes ten years to grow a tree, a hundred years to cultivate a person.", "source": "Guan Zhong"},
+  {"chinese": "\u72ed\u8def\u76f8\u9022\u52c7\u8005\u80dc", "pinyin": "xi\u00e1 l\u00f9 xi\u0101ng f\u00e9ng y\u01d2ng zh\u011b sh\u00e8ng", "translation": "On a narrow road, the brave one wins.", "source": "Chinese proverb"},
+  {"chinese": "\u6b63\u4eba\u5148\u6b63\u5df1", "pinyin": "zh\u00e8ng r\u00e9n xi\u0101n zh\u00e8ng j\u01d0", "translation": "Before correcting others, first correct yourself.", "source": "Chinese proverb"},
+  {"chinese": "\u8bfb\u4e07\u5377\u4e66\uff0c\u884c\u4e07\u91cc\u8def", "pinyin": "d\u00fa w\u00e0n ju\u01cen sh\u016b, x\u00edng w\u00e0n l\u01d0 l\u00f9", "translation": "Read ten thousand books, travel ten thousand miles.", "source": "Chinese proverb"},
+  {"chinese": "\u524d\u4e8b\u4e0d\u5fd8\uff0c\u540e\u4e8b\u4e4b\u5e08", "pinyin": "qi\u00e1n sh\u00ec b\u00f9 w\u00e0ng, h\u00f2u sh\u00ec zh\u012b sh\u012b", "translation": "Past experience is a guide for the future.", "source": "Chinese proverb"},
+  {"chinese": "\u77e5\u8db3\u8005\u5e38\u4e50", "pinyin": "zh\u012b z\u00fa zh\u011b ch\u00e1ng l\u00e8", "translation": "He who is content is always happy.", "source": "Laozi"},
+  {"chinese": "\u4ee5\u548c\u4e3a\u8d35", "pinyin": "y\u01d0 h\u00e9 w\u00e9i gu\u00ec", "translation": "Harmony is to be treasured.", "source": "Confucius"},
+  {"chinese": "\u89c1\u8d24\u601d\u9f50\u7109", "pinyin": "ji\u00e0n xi\u00e1n s\u012b q\u00ed y\u0101n", "translation": "When you see a worthy person, think of emulating them.", "source": "Confucius"},
+  {"chinese": "\u98ce\u96e8\u540c\u821f", "pinyin": "f\u0113ng y\u01d4 t\u00f3ng zh\u014du", "translation": "In the same boat through wind and rain.", "source": "Chinese idiom"},
+  {"chinese": "\u5b66\u6d77\u65e0\u6daf\u82e6\u4f5c\u821f", "pinyin": "xu\u00e9 h\u01cei w\u00fa y\u00e1 k\u01d4 zu\u00f2 zh\u014du", "translation": "The sea of learning has no end; hard work is the boat.", "source": "Han Yu"},
+  {"chinese": "\u65e2\u6765\u4e4b\uff0c\u5219\u5b89\u4e4b", "pinyin": "j\u00ec l\u00e1i zh\u012b, z\u00e9 \u0101n zh\u012b", "translation": "Since you are here, make the best of it.", "source": "Confucius"},
+  {"chinese": "\u4eba\u5f80\u9ad8\u5904\u8d70\uff0c\u6c34\u5f80\u4f4e\u5904\u6d41", "pinyin": "r\u00e9n w\u01ceng g\u0101o ch\u00f9 z\u01d2u, shu\u01d0 w\u01ceng d\u012b ch\u00f9 li\u00fa", "translation": "People climb high; water flows low.", "source": "Chinese proverb"},
+  {"chinese": "\u6709\u6559\u65e0\u7c7b", "pinyin": "y\u01d2u ji\u00e0o w\u00fa l\u00e8i", "translation": "Education knows no class distinctions.", "source": "Confucius"},
+  {"chinese": "\u6ee1\u62db\u635f\uff0c\u8c26\u53d7\u76ca", "pinyin": "m\u01cen zh\u0101o s\u01d4n, qi\u0101n sh\u00f2u y\u00ec", "translation": "Arrogance invites loss; humility receives benefit.", "source": "Book of Documents"},
+  {"chinese": "\u5de7\u5987\u96be\u4e3a\u65e0\u7c73\u4e4b\u7097", "pinyin": "qi\u01ceo f\u00f9 n\u00e1n w\u00e9i w\u00fa m\u01d0 zh\u012b chu\u012b", "translation": "Even the cleverest wife cannot cook without rice.", "source": "Chinese proverb"},
+  {"chinese": "\u753b\u86c7\u6dfb\u8db3", "pinyin": "hu\u00e0 sh\u00e9 ti\u0101n z\u00fa", "translation": "Drawing a snake and adding legs. (Overdoing it.)", "source": "Chinese idiom"},
+  {"chinese": "\u6d3b\u5230\u8001\uff0c\u5b66\u5230\u8001", "pinyin": "hu\u00f3 d\u00e0o l\u01ceo, xu\u00e9 d\u00e0o l\u01ceo", "translation": "Live until old, learn until old.", "source": "Chinese proverb"},
+  {"chinese": "\u7ad9\u5f97\u9ad8\uff0c\u770b\u5f97\u8fdc", "pinyin": "zh\u00e0n de g\u0101o, k\u00e0n de yu\u01cen", "translation": "Stand tall, see far.", "source": "Chinese proverb"},
+  {"chinese": "\u5929\u884c\u5065\uff0c\u541b\u5b50\u4ee5\u81ea\u5f3a\u4e0d\u606f", "pinyin": "ti\u0101n x\u00edng ji\u00e0n, j\u016bn z\u01d0 y\u01d0 z\u00ec qi\u00e1ng b\u00f9 x\u012b", "translation": "As heaven maintains vigor, a gentleman should constantly strive for self-perfection.", "source": "I Ching"},
+  {"chinese": "\u5fc3\u5b89\u7406\u5f97\uff0c\u6d77\u9614\u5929\u7a7a", "pinyin": "x\u012bn \u0101n l\u01d0 d\u00e9, h\u01cei ku\u00f2 ti\u0101n k\u014dng", "translation": "With a clear conscience, the sea is wide and the sky is vast.", "source": "Chinese proverb"},
+  {"chinese": "\u5c71\u91cd\u6c34\u590d\u7591\u65e0\u8def\uff0c\u67f3\u6697\u82b1\u660e\u53c8\u4e00\u6751", "pinyin": "sh\u0101n zh\u00f2ng shu\u01d0 f\u00f9 y\u00ed w\u00fa l\u00f9, li\u01d4 \u00e0n hu\u0101 m\u00edng y\u00f2u y\u012b c\u016bn", "translation": "Beyond the mountains and rivers, there is another village amid willows and flowers.", "source": "Lu You"},
+  {"chinese": "\u5c11\u58ee\u4e0d\u52aa\u529b\uff0c\u8001\u5927\u5f92\u4f24\u60b2", "pinyin": "sh\u00e0o zhu\u00e0ng b\u00f9 n\u01d4 l\u00ec, l\u01ceo d\u00e0 t\u00fa sh\u0101ng b\u0113i", "translation": "If one does not exert oneself in youth, one will regret it in old age.", "source": "Han Dynasty folk song"},
+  {"chinese": "\u660e\u4eba\u4e0d\u505a\u6697\u4e8b", "pinyin": "m\u00edng r\u00e9n b\u00f9 zu\u00f2 \u00e0n sh\u00ec", "translation": "An honest person does nothing in the dark.", "source": "Chinese proverb"},
+  {"chinese": "\u4e16\u4e0a\u65e0\u96be\u4e8b\uff0c\u53ea\u6015\u6709\u5fc3\u4eba", "pinyin": "sh\u00ec sh\u00e0ng w\u00fa n\u00e1n sh\u00ec, zh\u01d0 p\u00e0 y\u01d2u x\u012bn r\u00e9n", "translation": "Nothing is impossible for a determined heart.", "source": "Chinese proverb"},
+  {"chinese": "\u5929\u5c06\u964d\u5927\u4efb\u4e8e\u65af\u4eba\u4e5f", "pinyin": "ti\u0101n ji\u0101ng ji\u00e0ng d\u00e0 r\u00e8n y\u00fa s\u012b r\u00e9n y\u011b", "translation": "Heaven is about to confer a great responsibility on this person.", "source": "Mencius"},
+  {"chinese": "\u68a6\u60f3\u8fd8\u662f\u8981\u6709\u7684\uff0c\u4e07\u4e00\u5b9e\u73b0\u4e86\u5462", "pinyin": "m\u00e8ng xi\u01ceng h\u00e1i sh\u00ec y\u00e0o y\u01d2u de, w\u00e0n y\u012b sh\u00ed xi\u00e0n le ne", "translation": "One must still have dreams \u2014 what if they come true?", "source": "Jack Ma"},
+  {"chinese": "\u6ee4\u6c34\u4e4b\u6069\uff0c\u5f53\u6d8c\u6cc9\u76f8\u62a5", "pinyin": "d\u012b shu\u01d0 zh\u012b \u0113n, d\u0101ng y\u01d2ng qu\u00e1n xi\u0101ng b\u00e0o", "translation": "Repay even a drop of kindness with a gushing spring.", "source": "Chinese proverb"},
+  {"chinese": "\u672a\u96e8\u7ef8\u7f2a", "pinyin": "w\u00e8i y\u01d4 ch\u00f3u m\u00f3u", "translation": "Repair the roof before the rain.", "source": "Chinese proverb"},
+  {"chinese": "\u4e00\u9e23\u60ca\u4eba", "pinyin": "y\u012b m\u00edng j\u012bng r\u00e9n", "translation": "One cry startles everyone. (Sudden rise to fame.)", "source": "Chinese idiom"},
+  {"chinese": "\u4e66\u5c71\u6709\u8def\u52e4\u4e3a\u5f84", "pinyin": "sh\u016b sh\u0101n y\u01d2u l\u00f9 q\u00edn w\u00e9i j\u00ecng", "translation": "In the mountain of books, diligence is the path.", "source": "Han Yu"},
+  {"chinese": "\u99ac\u5230\u6210\u529f", "pinyin": "m\u01ce d\u00e0o ch\u00e9ng g\u014dng", "translation": "Success upon arrival.", "source": "Chinese idiom"},
+  {"chinese": "\u5b66\u65e0\u6b62\u5883", "pinyin": "xu\u00e9 w\u00fa zh\u01d0 j\u00ecng", "translation": "Learning has no boundaries.", "source": "Chinese proverb"},
+  {"chinese": "\u6c5f\u5c71\u6613\u6539\uff0c\u672c\u6027\u96be\u79fb", "pinyin": "ji\u0101ng sh\u0101n y\u00ec g\u01cei, b\u011bn x\u00ecng n\u00e1n y\u00ed", "translation": "Rivers and mountains may change, but one's nature is hard to alter.", "source": "Chinese proverb"},
+  {"chinese": "\u5929\u4e0b\u5174\u4ea1\uff0c\u5339\u592b\u6709\u8d23", "pinyin": "ti\u0101n xi\u00e0 x\u012bng w\u00e1ng, p\u01d0 f\u016b y\u01d2u z\u00e9", "translation": "Every person bears responsibility for the fate of the nation.", "source": "Gu Yanwu"},
+  {"chinese": "\u8001\u5f53\u76ca\u58ee", "pinyin": "l\u01ceo d\u0101ng y\u00ec zhu\u00e0ng", "translation": "Old but still vigorous.", "source": "Chinese idiom"},
+  {"chinese": "\u6709\u82b1\u5802\u5e97\u4e0d\u5728\u5927", "pinyin": "y\u01d2u hu\u0101 t\u00e1ng di\u00e0n b\u00f9 z\u00e0i d\u00e0", "translation": "A shop with flowers need not be large. (Quality over quantity.)", "source": "Chinese proverb"},
+  {"chinese": "\u4eba\u751f\u81ea\u53e4\u8c01\u65e0\u6b7b\uff0c\u7559\u53d6\u4e39\u5fc3\u7167\u6c57\u9752", "pinyin": "r\u00e9n sh\u0113ng z\u00ec g\u01d4 shu\u00ed w\u00fa s\u01d0, li\u00fa q\u01d4 d\u0101n x\u012bn zh\u00e0o h\u00e0n q\u012bng", "translation": "Let me leave a loyal heart to shine in history.", "source": "Wen Tianxiang"},
+  {"chinese": "\u5b69\u5b50\u662f\u7236\u6bcd\u7684\u4e00\u9762\u955c\u5b50", "pinyin": "h\u00e1i zi sh\u00ec f\u00f9 m\u01d4 de y\u012b mi\u00e0n j\u00ecng zi", "translation": "Children are a mirror of their parents.", "source": "Chinese proverb"},
+  {"chinese": "\u4e0d\u9e23\u5219\u5df2\uff0c\u4e00\u9e23\u60ca\u4eba", "pinyin": "b\u00f9 m\u00edng z\u00e9 y\u01d0, y\u012b m\u00edng j\u012bng r\u00e9n", "translation": "When it does not sing, it is silent; when it sings, it startles everyone.", "source": "Records of the Grand Historian"},
+  {"chinese": "\u541b\u5b50\u575a\u800c\u4e0d\u6d41", "pinyin": "j\u016bn z\u01d0 ji\u0101n \u00e9r b\u00f9 li\u00fa", "translation": "A gentleman is firm but not rigid.", "source": "Book of Rites"}
 ]

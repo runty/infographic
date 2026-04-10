@@ -198,5 +198,12 @@ TARGET ASPECT RATIO: {aspect_ratio}
     if not prompt:
         raise RuntimeError("Gemini returned empty prompt composition")
 
+    usage = response.usage_metadata
+    if usage:
+        logger.info(
+            f"Composer tokens — in: {usage.prompt_token_count}, "
+            f"out: {usage.candidates_token_count}, "
+            f"total: {usage.total_token_count}"
+        )
     logger.debug(f"Composed prompt ({len(prompt)} chars)")
     return prompt

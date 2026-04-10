@@ -35,7 +35,7 @@ NEXT=$((COUNTER + 1))
 echo "$NEXT" > "$COUNTER_FILE"
 
 # Pick theme
-THEME="headline"
+THEME="headline-lego"
 
 echo "$(date): Run #$COUNTER — theme: $THEME" >> "$LOG"
 
