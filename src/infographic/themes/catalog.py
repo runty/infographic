@@ -347,7 +347,10 @@ _HEADLINE_LEGO = (
     "ALL typography in BOLD, CHUNKY, PLAYFUL block letters — like the Lego logo font or similar "
     "rounded bold sans-serif. Text on printed Lego tiles. Everything is fun, colorful, tactile. "
     "Bright primary colors: red, blue, yellow, green Lego bricks. Slight motion blur on moving "
-    "pieces. The joyful, irreverent energy of The Lego Movie. EVERYTHING IS AWESOME."
+    "pieces. The joyful, irreverent energy of The Lego Movie. EVERYTHING IS AWESOME. "
+    "FINAL REMINDER: The image MUST be PHOTOREALISTIC 3D CGI — as if photographed with a macro "
+    "lens on a real Lego diorama. Plastic surfaces must have specular highlights, reflections, "
+    "and realistic material shading. NEVER hand-drawn, NEVER illustrated, NEVER painterly."
 )
 
 _HEADLINE_PIXAR = (

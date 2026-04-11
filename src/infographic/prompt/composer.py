@@ -89,6 +89,13 @@ Your prompt MUST specify:
 - Rich atmospheric details: lighting, texture, depth, mood
 - Color scheme and palette that reinforces the theme
 
+RENDERING STYLE:
+- If the theme specifies a rendering style (e.g., "photorealistic 3D CGI", "Pixar 3D", \
+"photograph of Lego"), you MUST preserve that instruction VERBATIM in your output prompt. \
+Do NOT soften it to "illustrated", "drawn", or "painted". The rendering style instruction \
+from the theme MUST appear word-for-word in your final prompt, ideally both at the beginning \
+AND end of the prompt.
+
 RULES:
 - Output ONLY the image generation prompt. No explanations, no preamble.
 - Include the headline text and quote/proverb text verbatim — but NEVER include URLs or long \

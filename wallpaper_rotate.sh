@@ -1,6 +1,6 @@
 #!/bin/bash
 # Wallpaper rotation script — runs every 4 hours (6am-10pm)
-# headline-lego theme, 4K resolution, sets wallpaper on 2nd monitor (LG TV)
+# headline-lego theme, 2K 3:2 resolution, sets wallpaper on FHD display (desktop 3)
 
 export PATH="/opt/homebrew/bin:$PATH"
 
@@ -54,10 +54,10 @@ OLD_WALLPAPER="$WALLPAPER_DIR/wallpaper_${PREV_SLOT}.png"
 # Generate
 infographic generate \
     --theme "$THEME" \
-    --aspect-ratio 16:9 \
-    --resolution 4K \
-    --width 3840 \
-    --height 2160 \
+    --aspect-ratio 3:2 \
+    --resolution 1K \
+    --width 1920 \
+    --height 1280 \
     $DARK_FLAG \
     -o "$WALLPAPER" 2>> "$LOG"
 
@@ -70,13 +70,13 @@ fi
 # First set to a blank to force macOS to notice the change, then set the real one
 osascript -e "
 tell application \"System Events\"
-    set picture of desktop 2 to \"$OLD_WALLPAPER\"
+    set picture of desktop 3 to \"$OLD_WALLPAPER\"
 end tell
 " 2>> "$LOG"
 sleep 1
 osascript -e "
 tell application \"System Events\"
-    set picture of desktop 2 to \"$WALLPAPER\"
+    set picture of desktop 3 to \"$WALLPAPER\"
 end tell
 " 2>> "$LOG"
 
