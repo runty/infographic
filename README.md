@@ -136,7 +136,9 @@ When `--dark-mode` is not set, the tool automatically adjusts lighting based on 
 
 ## Wallpaper Rotation
 
-Auto-generate a new infographic wallpaper 3x/day (6am, 12pm, 6pm), set on the second monitor. The 6pm run automatically uses dark mode. Keeps the last 10 wallpapers (`wallpaper_1.png` through `wallpaper_10.png`) so you can browse recent ones.
+Auto-generate a new infographic wallpaper 3x/day (6am, 12pm, 6pm). The 6pm run automatically uses dark mode. Targets a specific monitor by display name (default: `X EQUIP`), so it survives monitor reordering. Keeps the last 10 wallpapers (`wallpaper_1.png` through `wallpaper_10.png`) so you can browse recent ones.
+
+To change the target display, edit `DISPLAY_NAME` in `wallpaper_rotate.sh`.
 
 ### Setup
 
