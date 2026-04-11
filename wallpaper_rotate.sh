@@ -66,17 +66,19 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-# Set wallpaper on 2nd monitor
-# First set to a blank to force macOS to notice the change, then set the real one
+# Set wallpaper on X EQUIP by display name (survives monitor reordering)
+DISPLAY_NAME="X EQUIP"
 osascript -e "
 tell application \"System Events\"
-    set picture of desktop 3 to \"$OLD_WALLPAPER\"
+    set targetDesktop to first desktop whose display name is \"$DISPLAY_NAME\"
+    set picture of targetDesktop to \"$OLD_WALLPAPER\"
 end tell
 " 2>> "$LOG"
 sleep 1
 osascript -e "
 tell application \"System Events\"
-    set picture of desktop 3 to \"$WALLPAPER\"
+    set targetDesktop to first desktop whose display name is \"$DISPLAY_NAME\"
+    set picture of targetDesktop to \"$WALLPAPER\"
 end tell
 " 2>> "$LOG"
 
