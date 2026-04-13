@@ -138,6 +138,8 @@ When `--dark-mode` is not set, the tool automatically adjusts lighting based on 
 
 Auto-generate a new infographic wallpaper 3x/day (6am, 12pm, 6pm). The 6pm run automatically uses dark mode. Targets a specific monitor by display name (default: `X EQUIP`), so it survives monitor reordering. Keeps the last 10 wallpapers (`wallpaper_1.png` through `wallpaper_10.png`) so you can browse recent ones.
 
+Image generation includes automatic retry (up to 3 attempts) in case the model's content policy blocks a headline scene.
+
 To change the target display, edit `DISPLAY_NAME` in `wallpaper_rotate.sh`.
 
 ### Setup
