@@ -1,6 +1,6 @@
 #!/bin/bash
 # Wallpaper rotation script — runs every 4 hours (6am-10pm)
-# headline-lego theme, 2K 3:2 resolution, sets wallpaper on FHD display (desktop 3)
+# headline-lego theme, 4K 3:2 resolution (1920x1200), sets wallpaper on X EQUIP display
 
 export PATH="/opt/homebrew/bin:$PATH"
 
@@ -54,10 +54,9 @@ OLD_WALLPAPER="$WALLPAPER_DIR/wallpaper_${PREV_SLOT}.png"
 # Generate
 infographic generate \
     --theme "$THEME" \
-    --aspect-ratio 3:2 \
-    --resolution 1K \
-    --width 1920 \
-    --height 1280 \
+    --resolution 4K \
+    --width 3840 \
+    --height 2400 \
     $DARK_FLAG \
     -o "$WALLPAPER" 2>> "$LOG"
 
